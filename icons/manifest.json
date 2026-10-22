@@ -1,0 +1,2746 @@
+[
+  {
+    "id": "sura-zipper-12",
+    "name": "zipper",
+    "size": 12,
+    "path": "icons/zipper/zipper-12.svg",
+    "sha256": "65cfc73e29fb2bc60dffc1b1c4cbdd9d2713feb4502345759fff09403dbc8421"
+  },
+  {
+    "id": "sura-zipper-16",
+    "name": "zipper",
+    "size": 16,
+    "path": "icons/zipper/zipper-16.svg",
+    "sha256": "3cc705418163f0c5273d41b8133148d9a8d297d20468521294bd7c47f073869b"
+  },
+  {
+    "id": "sura-zipper-24",
+    "name": "zipper",
+    "size": 24,
+    "path": "icons/zipper/zipper-24.svg",
+    "sha256": "02fea27b4068362a1b75be7fa33b9213600e8a6a4118276e71e8d0f0a0e86c40"
+  },
+  {
+    "id": "sura-zipper-32",
+    "name": "zipper",
+    "size": 32,
+    "path": "icons/zipper/zipper-32.svg",
+    "sha256": "dacd5717ffff5b78531afc11646dccc7b44a934b990df9ba29b55f1e2bd325a7"
+  },
+  {
+    "id": "sura-target-12",
+    "name": "target",
+    "size": 12,
+    "path": "icons/target/target-12.svg",
+    "sha256": "374dbef0a2d4b23838a6ec9cbbd3afedf7c4d5147f07dceca343cfee5a4727b4"
+  },
+  {
+    "id": "sura-target-16",
+    "name": "target",
+    "size": 16,
+    "path": "icons/target/target-16.svg",
+    "sha256": "242fe5429f8e1995cc69641a68c81353f27560c2a5468af890be454f5527fcbf"
+  },
+  {
+    "id": "sura-target-24",
+    "name": "target",
+    "size": 24,
+    "path": "icons/target/target-24.svg",
+    "sha256": "cf5c5e4e5b093df94d27c68c916f7d3c954466bc76e200a9076a7ecec2e75033"
+  },
+  {
+    "id": "sura-target-32",
+    "name": "target",
+    "size": 32,
+    "path": "icons/target/target-32.svg",
+    "sha256": "cbb5fa9257c0d7551e58d29752ccbbb4dba2a782e132ede01c4479f91705e27a"
+  },
+  {
+    "id": "sura-line-12",
+    "name": "line",
+    "size": 12,
+    "path": "icons/line/line-12.svg",
+    "sha256": "804897d8a19450bbad52b030da529ba0e4481543715631e415e82e18640e19b1"
+  },
+  {
+    "id": "sura-line-16",
+    "name": "line",
+    "size": 16,
+    "path": "icons/line/line-16.svg",
+    "sha256": "273fcc84e8a1569c15b484cd1665e66162926fc1d9bfdda9d239f17a14471e6a"
+  },
+  {
+    "id": "sura-line-24",
+    "name": "line",
+    "size": 24,
+    "path": "icons/line/line-24.svg",
+    "sha256": "133b6b2ce3bd46d9bd9ffaf30e51646039c1d648301047eba49cde29ca5789cf"
+  },
+  {
+    "id": "sura-line-32",
+    "name": "line",
+    "size": 32,
+    "path": "icons/line/line-32.svg",
+    "sha256": "b3264045be388c9600dfc0c871af4051233f50f6f0216814aad45f4ea2ae1f60"
+  },
+  {
+    "id": "sura-trash-12",
+    "name": "trash",
+    "size": 12,
+    "path": "icons/trash/trash-12.svg",
+    "sha256": "bc1ac52adf862ed01f16cc113c359040fa55efbeb021e20e4ea3a64aafc5295c"
+  },
+  {
+    "id": "sura-trash-16",
+    "name": "trash",
+    "size": 16,
+    "path": "icons/trash/trash-16.svg",
+    "sha256": "cde071a063b87579dce93c27002bfd379b852fe33625cc3bf2dc266fd414f19c"
+  },
+  {
+    "id": "sura-trash-24",
+    "name": "trash",
+    "size": 24,
+    "path": "icons/trash/trash-24.svg",
+    "sha256": "eb9b88473ba5ea4084b7e133df624d38cf82187b115703d0605d311839268274"
+  },
+  {
+    "id": "sura-trash-32",
+    "name": "trash",
+    "size": 32,
+    "path": "icons/trash/trash-32.svg",
+    "sha256": "ed90e5efafb56994ddb7b457dabdc26e9640964be39f55bd4c20b14e3188c40d"
+  },
+  {
+    "id": "sura-home-12",
+    "name": "home",
+    "size": 12,
+    "path": "icons/home/home-12.svg",
+    "sha256": "adf8e24fd1203bbf045bef97c82cab0419f137992eefa640b2c935c206f72640"
+  },
+  {
+    "id": "sura-home-16",
+    "name": "home",
+    "size": 16,
+    "path": "icons/home/home-16.svg",
+    "sha256": "945b56f401b40e98333edb28931bce380d5e58078635b3a2b65444f2fe51e5f5"
+  },
+  {
+    "id": "sura-home-24",
+    "name": "home",
+    "size": 24,
+    "path": "icons/home/home-24.svg",
+    "sha256": "b87f444e1fa82efdf29fe06fc0aa83f1f71cf06bce68573e0ce919de3da33258"
+  },
+  {
+    "id": "sura-home-32",
+    "name": "home",
+    "size": 32,
+    "path": "icons/home/home-32.svg",
+    "sha256": "a900952b9755aa4da6fb254f5575dead5ad52fc0f079467660aa1b3c093847d2"
+  },
+  {
+    "id": "sura-bell-12",
+    "name": "bell",
+    "size": 12,
+    "path": "icons/bell/bell-12.svg",
+    "sha256": "7ac7cfefd168b0e656f588f4f3b5faa20e4634b30b461bb472dcc51d98cd0c46"
+  },
+  {
+    "id": "sura-bell-16",
+    "name": "bell",
+    "size": 16,
+    "path": "icons/bell/bell-16.svg",
+    "sha256": "ee95989a9175865a91b48fae815497f4bbc1f4d54162816375f5b676b7a2215f"
+  },
+  {
+    "id": "sura-bell-24",
+    "name": "bell",
+    "size": 24,
+    "path": "icons/bell/bell-24.svg",
+    "sha256": "ae54486734908e5164247f7934eb1a07b50428d576a4a39b1b4b76207908dbeb"
+  },
+  {
+    "id": "sura-bell-32",
+    "name": "bell",
+    "size": 32,
+    "path": "icons/bell/bell-32.svg",
+    "sha256": "894a9b00eadbc238cc3ac437778aaada5a6e87c87faa1cb46140d4787831dcb8"
+  },
+  {
+    "id": "sura-world-12",
+    "name": "world",
+    "size": 12,
+    "path": "icons/world/world-12.svg",
+    "sha256": "b0249654693209de9b8bbbc68821ed9ca7f0253af42930ec86b89c2e7c089107"
+  },
+  {
+    "id": "sura-world-16",
+    "name": "world",
+    "size": 16,
+    "path": "icons/world/world-16.svg",
+    "sha256": "4948cb52a65658b2c3d2eb41a30cd1918ce6ac9f942cd9e323323713fe3500f5"
+  },
+  {
+    "id": "sura-world-24",
+    "name": "world",
+    "size": 24,
+    "path": "icons/world/world-24.svg",
+    "sha256": "eb76cae7bec3229d019c0d22c1edcae408e41e2fc7609a9dbcff1a977873e4b8"
+  },
+  {
+    "id": "sura-world-32",
+    "name": "world",
+    "size": 32,
+    "path": "icons/world/world-32.svg",
+    "sha256": "ce6bbab728004ee2cf36c7111460b1518dd0931396e2b7a2e6020e6298803f0e"
+  },
+  {
+    "id": "sura-lock-12",
+    "name": "lock",
+    "size": 12,
+    "path": "icons/lock/lock-12.svg",
+    "sha256": "23942a0af30fe26ddbcb4a5f1cc793694ec0527c0c053a541df7c771f8ac5a36"
+  },
+  {
+    "id": "sura-lock-16",
+    "name": "lock",
+    "size": 16,
+    "path": "icons/lock/lock-16.svg",
+    "sha256": "cffea9039517e71d357474eeb9070d988f420005cfce6ffc92aaee92fdc0381a"
+  },
+  {
+    "id": "sura-lock-24",
+    "name": "lock",
+    "size": 24,
+    "path": "icons/lock/lock-24.svg",
+    "sha256": "ee1ed8869cdb9d0a9915d91e43c8d1097f83d61840d15308dd1e3b18306fa34b"
+  },
+  {
+    "id": "sura-lock-32",
+    "name": "lock",
+    "size": 32,
+    "path": "icons/lock/lock-32.svg",
+    "sha256": "c628840788459235b52c5910d677cc5414835a697e3ed563f9c105d43d31ad08"
+  },
+  {
+    "id": "sura-sun-12",
+    "name": "sun",
+    "size": 12,
+    "path": "icons/sun/sun-12.svg",
+    "sha256": "f9fb866d673c156f20a552d0c3775c8e7b0fc0e67e2be95de4bd1f47d0f30d76"
+  },
+  {
+    "id": "sura-sun-16",
+    "name": "sun",
+    "size": 16,
+    "path": "icons/sun/sun-16.svg",
+    "sha256": "4def58f2934a894ac3fcb3012b5278d05527a297f27450a11687d06c8a849e8b"
+  },
+  {
+    "id": "sura-sun-24",
+    "name": "sun",
+    "size": 24,
+    "path": "icons/sun/sun-24.svg",
+    "sha256": "93fb8d67dd70370730652bb6c8389ba57bf2d1205352a13b55d52fb841310c59"
+  },
+  {
+    "id": "sura-sun-32",
+    "name": "sun",
+    "size": 32,
+    "path": "icons/sun/sun-32.svg",
+    "sha256": "82a94c1639d777f5e96dac17fa36de34b28d4f978610baa02b8e44bea0bcee54"
+  },
+  {
+    "id": "sura-shield-12",
+    "name": "shield",
+    "size": 12,
+    "path": "icons/shield/shield-12.svg",
+    "sha256": "196b58796add7f312526b9fd8651f7b30dcfb5cba9091b2c9a33d9c0935930a5"
+  },
+  {
+    "id": "sura-shield-16",
+    "name": "shield",
+    "size": 16,
+    "path": "icons/shield/shield-16.svg",
+    "sha256": "9fa7449703385001175239e65a30a14dfd7f72ea043a2974ac914bd2448952f7"
+  },
+  {
+    "id": "sura-shield-24",
+    "name": "shield",
+    "size": 24,
+    "path": "icons/shield/shield-24.svg",
+    "sha256": "93877ae4df1fd0ca3af4fefc97dd0072c1f0df0bf15585d67a6b995de0724be3"
+  },
+  {
+    "id": "sura-shield-32",
+    "name": "shield",
+    "size": 32,
+    "path": "icons/shield/shield-32.svg",
+    "sha256": "4bb5c2a6ac4754b31d48cc4689407497496a64dff24ba8ec4f9e126171cdce98"
+  },
+  {
+    "id": "sura-robot-12",
+    "name": "robot",
+    "size": 12,
+    "path": "icons/robot/robot-12.svg",
+    "sha256": "0622395721cc929039674e7f62849ea0ae7b4b4600b68827698bcae39d65098f"
+  },
+  {
+    "id": "sura-robot-16",
+    "name": "robot",
+    "size": 16,
+    "path": "icons/robot/robot-16.svg",
+    "sha256": "f8bddb2723fbd180e802ea35fed55f41431fcbcb933b9e960b7e9b8f063118a1"
+  },
+  {
+    "id": "sura-robot-24",
+    "name": "robot",
+    "size": 24,
+    "path": "icons/robot/robot-24.svg",
+    "sha256": "540fcc1e6c2e953d5315428d2584af520ba2c4372ed7d770f1402adf1b88e0a7"
+  },
+  {
+    "id": "sura-robot-32",
+    "name": "robot",
+    "size": 32,
+    "path": "icons/robot/robot-32.svg",
+    "sha256": "28702ed4c6c01c454ed25d2600fab2d193118a602341593f15a69311bd967f43"
+  },
+  {
+    "id": "sura-discs-12",
+    "name": "discs",
+    "size": 12,
+    "path": "icons/discs/discs-12.svg",
+    "sha256": "952b918b30ef4c4c3ab5a0042145184f150bdd50a856ab8b719abcc7d2ef5cd2"
+  },
+  {
+    "id": "sura-discs-16",
+    "name": "discs",
+    "size": 16,
+    "path": "icons/discs/discs-16.svg",
+    "sha256": "bf7657cabd6996e7c9f205e9483e09f9defa378dfd7d723807c4f48e0b46a2c5"
+  },
+  {
+    "id": "sura-discs-24",
+    "name": "discs",
+    "size": 24,
+    "path": "icons/discs/discs-24.svg",
+    "sha256": "8dc5f47b5263d3fdf07e493903bac588333d875f82d799e2882bbf6432cb99ea"
+  },
+  {
+    "id": "sura-discs-32",
+    "name": "discs",
+    "size": 32,
+    "path": "icons/discs/discs-32.svg",
+    "sha256": "8eff1fa19be6c081ac5c6f22e9d197c8691e98ce5bbc801f5776e46d1b77dd82"
+  },
+  {
+    "id": "sura-telegram-12",
+    "name": "telegram",
+    "size": 12,
+    "path": "icons/telegram/telegram-12.svg",
+    "sha256": "e4776ebd0d2b0451f884496bd62351591db175c95899ede0065760142af66111"
+  },
+  {
+    "id": "sura-telegram-16",
+    "name": "telegram",
+    "size": 16,
+    "path": "icons/telegram/telegram-16.svg",
+    "sha256": "408dff7bc174ff757642113ae4d1d163f15f2da36378a20f7a507ff3c6c2e719"
+  },
+  {
+    "id": "sura-telegram-24",
+    "name": "telegram",
+    "size": 24,
+    "path": "icons/telegram/telegram-24.svg",
+    "sha256": "bd3a06b403751fb100fe8e3a8278394d27b7315bba8aa5894d483186360f95e2"
+  },
+  {
+    "id": "sura-telegram-32",
+    "name": "telegram",
+    "size": 32,
+    "path": "icons/telegram/telegram-32.svg",
+    "sha256": "c5ee0c099acb7c5f80a4e94861826856850d2194675e340fc59a612a07d37b2e"
+  },
+  {
+    "id": "sura-file-12",
+    "name": "file",
+    "size": 12,
+    "path": "icons/file/file-12.svg",
+    "sha256": "b1e557cca8cc2456730cb35ee11979fd90593407c1994b79c5bcb61d68913b75"
+  },
+  {
+    "id": "sura-file-16",
+    "name": "file",
+    "size": 16,
+    "path": "icons/file/file-16.svg",
+    "sha256": "699320b70d2db079051dd6b63b347cbf6d3384d4c85e090cbc5f196ebc05d8b4"
+  },
+  {
+    "id": "sura-file-24",
+    "name": "file",
+    "size": 24,
+    "path": "icons/file/file-24.svg",
+    "sha256": "42cdf375478de9fbda057b923c269d726e084909bcf3cb48f4a4a8cc28993974"
+  },
+  {
+    "id": "sura-file-32",
+    "name": "file",
+    "size": 32,
+    "path": "icons/file/file-32.svg",
+    "sha256": "249899addd8562d66ddbff6b2db93ac995dcc2e44b0cdf60f7d79e21f359cb75"
+  },
+  {
+    "id": "sura-question-12",
+    "name": "question",
+    "size": 12,
+    "path": "icons/question/question-12.svg",
+    "sha256": "f366d2adefcd2b80052588f6bb1729a88704870b3967b08679a81b13f9e4928a"
+  },
+  {
+    "id": "sura-question-16",
+    "name": "question",
+    "size": 16,
+    "path": "icons/question/question-16.svg",
+    "sha256": "23d288c3dfec71bc30e352b48da4f7fdeb551280a1653ce2f650d9eb2d782679"
+  },
+  {
+    "id": "sura-question-24",
+    "name": "question",
+    "size": 24,
+    "path": "icons/question/question-24.svg",
+    "sha256": "25c8dd4347d1d32fe5b4e348a7f0117b446f192b09ecc8afd6920fb5c99aa039"
+  },
+  {
+    "id": "sura-question-32",
+    "name": "question",
+    "size": 32,
+    "path": "icons/question/question-32.svg",
+    "sha256": "8a91065e0db1481e44daf2bf452b0364b8a5144974a6f8b27ba26bfcf22ec35f"
+  },
+  {
+    "id": "sura-message-12",
+    "name": "message",
+    "size": 12,
+    "path": "icons/message/message-12.svg",
+    "sha256": "7aa30b65e6fc7beeddb0f6c1893d0de3b44e13e29db68498a382ec7af6cfef6c"
+  },
+  {
+    "id": "sura-message-16",
+    "name": "message",
+    "size": 16,
+    "path": "icons/message/message-16.svg",
+    "sha256": "57902b3b4ad2c29ca7df5421dc9f322153e13a75b1224367e21b3a817c421ea3"
+  },
+  {
+    "id": "sura-message-24",
+    "name": "message",
+    "size": 24,
+    "path": "icons/message/message-24.svg",
+    "sha256": "6279ef99fa9d0d67f60f5ffbe3f562b9327ed4ae2d88a9512994a516258d6dfd"
+  },
+  {
+    "id": "sura-message-32",
+    "name": "message",
+    "size": 32,
+    "path": "icons/message/message-32.svg",
+    "sha256": "4035e2d1c344207455c5020ebdab394665c1da732b588394eaac76498eb1b567"
+  },
+  {
+    "id": "sura-chart-12",
+    "name": "chart",
+    "size": 12,
+    "path": "icons/chart/chart-12.svg",
+    "sha256": "0c13e622a7c72bc839f6129d7a4db79be65faf2d2a27e401a00b2807beb9c004"
+  },
+  {
+    "id": "sura-chart-16",
+    "name": "chart",
+    "size": 16,
+    "path": "icons/chart/chart-16.svg",
+    "sha256": "1d3e1ee9aeb76262d113dd81dc31db2bfad8760547dc932fa937ff5d387d20c7"
+  },
+  {
+    "id": "sura-chart-24",
+    "name": "chart",
+    "size": 24,
+    "path": "icons/chart/chart-24.svg",
+    "sha256": "438be4639e9e7e66841e1825b0ebf36064ac2c509a03febb9d3e7883e74fcd2d"
+  },
+  {
+    "id": "sura-chart-32",
+    "name": "chart",
+    "size": 32,
+    "path": "icons/chart/chart-32.svg",
+    "sha256": "5f1a775e877696d3399e027667127424e5d674bda5a195f6640c7cb46a6cca45"
+  },
+  {
+    "id": "sura-fire-12",
+    "name": "fire",
+    "size": 12,
+    "path": "icons/fire/fire-12.svg",
+    "sha256": "ceab0d3c59428ac2774890de5760119ef007dfc73660451bc98a765738a72955"
+  },
+  {
+    "id": "sura-fire-16",
+    "name": "fire",
+    "size": 16,
+    "path": "icons/fire/fire-16.svg",
+    "sha256": "8877b5e03e1a0a371a07391d8beb301745a2f37a74297cdf1ef2f3c0551185f3"
+  },
+  {
+    "id": "sura-fire-24",
+    "name": "fire",
+    "size": 24,
+    "path": "icons/fire/fire-24.svg",
+    "sha256": "bca7a2d0b63bf2522f2a6da5e08acb8ea1455acc8342faf9405182ec43a64a5e"
+  },
+  {
+    "id": "sura-fire-32",
+    "name": "fire",
+    "size": 32,
+    "path": "icons/fire/fire-32.svg",
+    "sha256": "078a429b0f6119fed67e4402f4c782896a10e461565130aef75f83c9ef73dbf0"
+  },
+  {
+    "id": "sura-canban-12",
+    "name": "canban",
+    "size": 12,
+    "path": "icons/canban/canban-12.svg",
+    "sha256": "b9f22f64a6ee0b9945656f01e06ff3f16c720db5810ec4f8e264179bcb77c976"
+  },
+  {
+    "id": "sura-canban-16",
+    "name": "canban",
+    "size": 16,
+    "path": "icons/canban/canban-16.svg",
+    "sha256": "42c2483b0832f4f9cb6e04387878c5a8072ea5a0c4ed16bd9883d6fe7c6675a2"
+  },
+  {
+    "id": "sura-canban-24",
+    "name": "canban",
+    "size": 24,
+    "path": "icons/canban/canban-24.svg",
+    "sha256": "6c4164be244c729c01f7c68cf2a96268a3ae3d69cf4c5d52b35d2c88320dbdb6"
+  },
+  {
+    "id": "sura-canban-32",
+    "name": "canban",
+    "size": 32,
+    "path": "icons/canban/canban-32.svg",
+    "sha256": "e825610094dbac572dce2d2b6b5031af5f45ce37f347b27e482a1cba604f2f58"
+  },
+  {
+    "id": "sura-microfon-12",
+    "name": "microfon",
+    "size": 12,
+    "path": "icons/microfon/microfon-12.svg",
+    "sha256": "54ef422d055cf93d08669f4f2a4a398721c8844c97a4b47bde6e56278ec0b045"
+  },
+  {
+    "id": "sura-microfon-16",
+    "name": "microfon",
+    "size": 16,
+    "path": "icons/microfon/microfon-16.svg",
+    "sha256": "f403eed2625ddffff171f338478905becda6901c86faa0f518d3aed355ba35f8"
+  },
+  {
+    "id": "sura-microfon-24",
+    "name": "microfon",
+    "size": 24,
+    "path": "icons/microfon/microfon-24.svg",
+    "sha256": "7b3a019e10b9e7e2c72a45a7770f5c1dc62d72fb8d32ba04e0e6c12bba82b449"
+  },
+  {
+    "id": "sura-microfon-32",
+    "name": "microfon",
+    "size": 32,
+    "path": "icons/microfon/microfon-32.svg",
+    "sha256": "f380329f74c31fc77f7c08253f72568d74f583520f7eba2a457ca0c08d3a0d60"
+  },
+  {
+    "id": "sura-clock-12",
+    "name": "clock",
+    "size": 12,
+    "path": "icons/clock/clock-12.svg",
+    "sha256": "7c902aa63c421775f71237d6b4b4995e94cfe93ebe2c2ff9ed4e2adc52e8f9f0"
+  },
+  {
+    "id": "sura-clock-16",
+    "name": "clock",
+    "size": 16,
+    "path": "icons/clock/clock-16.svg",
+    "sha256": "6f40259e3555cdf361162e7f7832e0d0eb49e7d59b0f54619b0a221843d051ba"
+  },
+  {
+    "id": "sura-clock-24",
+    "name": "clock",
+    "size": 24,
+    "path": "icons/clock/clock-24.svg",
+    "sha256": "198f5425d211757001231801aa6ccac7070ada6f698e99851fc903e5b0ed26c2"
+  },
+  {
+    "id": "sura-clock-32",
+    "name": "clock",
+    "size": 32,
+    "path": "icons/clock/clock-32.svg",
+    "sha256": "d39ea0d68f545f2bbc03384e314327debf41b1a0f8a05af782ce09f69186f95e"
+  },
+  {
+    "id": "sura-calendar-12",
+    "name": "calendar",
+    "size": 12,
+    "path": "icons/calendar/calendar-12.svg",
+    "sha256": "e8c34f211650e00e83089534aa4b6a7718d6c1697e45dd96da98b1041c793e1f"
+  },
+  {
+    "id": "sura-calendar-16",
+    "name": "calendar",
+    "size": 16,
+    "path": "icons/calendar/calendar-16.svg",
+    "sha256": "e90fada13bec3974532a46f94ef90a243e4aa71f2ee46dfb6fd4fa338d24d2ec"
+  },
+  {
+    "id": "sura-calendar-24",
+    "name": "calendar",
+    "size": 24,
+    "path": "icons/calendar/calendar-24.svg",
+    "sha256": "04d9b6b1a3df921a0f50ac97001cad743026867cc9d8f74744ebc79f7e9f346c"
+  },
+  {
+    "id": "sura-calendar-32",
+    "name": "calendar",
+    "size": 32,
+    "path": "icons/calendar/calendar-32.svg",
+    "sha256": "76af509d09a1ecb9306ea5652aaf0de51c4d1c9a200b4cb418329bc1dc177bc4"
+  },
+  {
+    "id": "sura-calendar_check-12",
+    "name": "calendar_check",
+    "size": 12,
+    "path": "icons/calendar_check/calendar_check-12.svg",
+    "sha256": "821cdfc4e3130aee382dbc3f5dc6072b9725d48b5b02d10d69780e86394cbfdf"
+  },
+  {
+    "id": "sura-calendar_check-16",
+    "name": "calendar_check",
+    "size": 16,
+    "path": "icons/calendar_check/calendar_check-16.svg",
+    "sha256": "520f7beb00d26f476f2a7c9b83e8f1648e128cd1c901d0f50ece7d3cf7920b51"
+  },
+  {
+    "id": "sura-calendar_check-24",
+    "name": "calendar_check",
+    "size": 24,
+    "path": "icons/calendar_check/calendar_check-24.svg",
+    "sha256": "010656a53c538fddb9c1d6cc22d9795bc33a5f2439bc8672f16f070c23076b68"
+  },
+  {
+    "id": "sura-calendar_check-32",
+    "name": "calendar_check",
+    "size": 32,
+    "path": "icons/calendar_check/calendar_check-32.svg",
+    "sha256": "4b9c976f7d3e027482c06eb30042e1f60d3118d17ef8c9cb082d0da03a6ba996"
+  },
+  {
+    "id": "sura-dots_horisontal-12",
+    "name": "dots_horisontal",
+    "size": 12,
+    "path": "icons/dots_horisontal/dots_horisontal-12.svg",
+    "sha256": "3612b5ba7882154591ba619c2433420c62ba31185057f1b3094e4e8bb5626ac5"
+  },
+  {
+    "id": "sura-dots_horisontal-16",
+    "name": "dots_horisontal",
+    "size": 16,
+    "path": "icons/dots_horisontal/dots_horisontal-16.svg",
+    "sha256": "a3e857ad6e25c8bfc667e934664a8096c3690055cd0e2d5c807ebb5a19b5cbf7"
+  },
+  {
+    "id": "sura-dots_horisontal-24",
+    "name": "dots_horisontal",
+    "size": 24,
+    "path": "icons/dots_horisontal/dots_horisontal-24.svg",
+    "sha256": "16047d90d451243ccd843c6b4e0d64e59491ca6c29b98ed8aeac39f4801df809"
+  },
+  {
+    "id": "sura-dots_horisontal-32",
+    "name": "dots_horisontal",
+    "size": 32,
+    "path": "icons/dots_horisontal/dots_horisontal-32.svg",
+    "sha256": "e9ad0029a63f7af5c13e6c158dd2ab39d7a479b82e8cfdf3ed208016ff4dcff4"
+  },
+  {
+    "id": "sura-check_square-12",
+    "name": "check_square",
+    "size": 12,
+    "path": "icons/check_square/check_square-12.svg",
+    "sha256": "570522dcc3836851868f6086fa619cb9e737d8a9111af4e9f47e8309f38f6b0e"
+  },
+  {
+    "id": "sura-check_square-16",
+    "name": "check_square",
+    "size": 16,
+    "path": "icons/check_square/check_square-16.svg",
+    "sha256": "da32dea07a3f170f5a9df95085ed1d74474bc7b9fcec4eb4a0c6862fd3769061"
+  },
+  {
+    "id": "sura-check_square-24",
+    "name": "check_square",
+    "size": 24,
+    "path": "icons/check_square/check_square-24.svg",
+    "sha256": "c8babe8bf184390c753b6acf1323d73521d472ce48613c033be3c6953b9ba1b8"
+  },
+  {
+    "id": "sura-check_square-32",
+    "name": "check_square",
+    "size": 32,
+    "path": "icons/check_square/check_square-32.svg",
+    "sha256": "7ad19c45bd28502e174bf5b15dbd89fa97f65e8ca7236bffdff1e45138f58805"
+  },
+  {
+    "id": "sura-exit-12",
+    "name": "exit",
+    "size": 12,
+    "path": "icons/exit/exit-12.svg",
+    "sha256": "ce3388c589d445a06a06cf64fcffee8dddaf15922446406db807ced0861f579c"
+  },
+  {
+    "id": "sura-exit-16",
+    "name": "exit",
+    "size": 16,
+    "path": "icons/exit/exit-16.svg",
+    "sha256": "3d5a7b5d0406d7fbebff791f88f3a03043d01d7d014c16d09b96c1600363f9a6"
+  },
+  {
+    "id": "sura-exit-24",
+    "name": "exit",
+    "size": 24,
+    "path": "icons/exit/exit-24.svg",
+    "sha256": "825dd3de93ea6d56153a2b0bb59c58707dd2dba83853801614f520a839b48ac8"
+  },
+  {
+    "id": "sura-exit-32",
+    "name": "exit",
+    "size": 32,
+    "path": "icons/exit/exit-32.svg",
+    "sha256": "8bcab0145571984620ff3a23b6b031ae3cccc79bbb3dd1b98bfde574ee00aa47"
+  },
+  {
+    "id": "sura-tile-12",
+    "name": "tile",
+    "size": 12,
+    "path": "icons/tile/tile-12.svg",
+    "sha256": "40b9916473e92939c05c73717240f7a94772c6e865a8a67b68f9cc8e3bce73ea"
+  },
+  {
+    "id": "sura-tile-16",
+    "name": "tile",
+    "size": 16,
+    "path": "icons/tile/tile-16.svg",
+    "sha256": "e1e848992ab66a90bfb994d8ce4af9a3278786f1f7d4de585349ed3d95f62395"
+  },
+  {
+    "id": "sura-tile-24",
+    "name": "tile",
+    "size": 24,
+    "path": "icons/tile/tile-24.svg",
+    "sha256": "6b4681c18c05c7ad44ad97835b99d219bec354e6fffc3f048c01d9dbf8fdefa8"
+  },
+  {
+    "id": "sura-tile-32",
+    "name": "tile",
+    "size": 32,
+    "path": "icons/tile/tile-32.svg",
+    "sha256": "d7a12c6255895e68ce69948de32823e7ae8c021991b4fe8f8c7d3d60f0a0db8f"
+  },
+  {
+    "id": "sura-contact_map-12",
+    "name": "contact_map",
+    "size": 12,
+    "path": "icons/contact_map/contact_map-12.svg",
+    "sha256": "d56915bbb037590d4a225ead522088f119b6f41cf1bf44fd826e0cfb1c41452a"
+  },
+  {
+    "id": "sura-contact_map-16",
+    "name": "contact_map",
+    "size": 16,
+    "path": "icons/contact_map/contact_map-16.svg",
+    "sha256": "d14a622fa25d5bf6c81e87628c2c71a24a6c889e8e1e45f02c8f9b936eb6ccdd"
+  },
+  {
+    "id": "sura-contact_map-24",
+    "name": "contact_map",
+    "size": 24,
+    "path": "icons/contact_map/contact_map-24.svg",
+    "sha256": "d9dd027e08c73202a757c15ddd6be60b48d0915d3dc975dbf1b95d9f94496ccf"
+  },
+  {
+    "id": "sura-contact_map-32",
+    "name": "contact_map",
+    "size": 32,
+    "path": "icons/contact_map/contact_map-32.svg",
+    "sha256": "08252eea9b3eb90f0c3c2998c3795c4e6868a4d20b63bd2408ba751a4e3f00f6"
+  },
+  {
+    "id": "sura-contacts-12",
+    "name": "contacts",
+    "size": 12,
+    "path": "icons/contacts/contacts-12.svg",
+    "sha256": "9e0bc3ee8653deddd13ef220af29105128de31a73a43201b358df94b5f16b4cc"
+  },
+  {
+    "id": "sura-contacts-16",
+    "name": "contacts",
+    "size": 16,
+    "path": "icons/contacts/contacts-16.svg",
+    "sha256": "d54c45fbb818c7451e05ca3d4405f59bb11e5cf9934e199b55d5508e8ecfc6a6"
+  },
+  {
+    "id": "sura-contacts-24",
+    "name": "contacts",
+    "size": 24,
+    "path": "icons/contacts/contacts-24.svg",
+    "sha256": "d2ef95c0a27915876bbccddbdc45c0ed2f2125394b16311b0ae2522f6a150f92"
+  },
+  {
+    "id": "sura-contacts-32",
+    "name": "contacts",
+    "size": 32,
+    "path": "icons/contacts/contacts-32.svg",
+    "sha256": "c7a62ddb94ce377befa23b980d6c866f8e41cf515f00486593ec4971e7b88bff"
+  },
+  {
+    "id": "sura-ai-12",
+    "name": "ai",
+    "size": 12,
+    "path": "icons/ai/ai-12.svg",
+    "sha256": "d2dffbbace0c517f38c44c8a1e8e6a6286fa4578b1d5d2e603509ab221300259"
+  },
+  {
+    "id": "sura-ai-16",
+    "name": "ai",
+    "size": 16,
+    "path": "icons/ai/ai-16.svg",
+    "sha256": "688027ee27818b4834b6d0e894d4cf5af1a9a9bcb261f7a7c90ad5e65144223f"
+  },
+  {
+    "id": "sura-ai-24",
+    "name": "ai",
+    "size": 24,
+    "path": "icons/ai/ai-24.svg",
+    "sha256": "594ad75143b825fe4e03d477cdded151427efd70a22e6968ecf38d9cd667607d"
+  },
+  {
+    "id": "sura-ai-32",
+    "name": "ai",
+    "size": 32,
+    "path": "icons/ai/ai-32.svg",
+    "sha256": "4097a0ff63df0add432748bfea263ba1a4ea9d159ccb840e2782629b5bab6f34"
+  },
+  {
+    "id": "sura-contact_setting-12",
+    "name": "contact_setting",
+    "size": 12,
+    "path": "icons/contact_setting/contact_setting-12.svg",
+    "sha256": "f388553856c4fc17d669062896fbad9ffcc9038adfd3ad31f87c2003ef20cf8a"
+  },
+  {
+    "id": "sura-contact_setting-16",
+    "name": "contact_setting",
+    "size": 16,
+    "path": "icons/contact_setting/contact_setting-16.svg",
+    "sha256": "4cff3b58a5b40566e44af06576bca07eda6b79549c4a70e0c608c4c4f315dace"
+  },
+  {
+    "id": "sura-contact_setting-24",
+    "name": "contact_setting",
+    "size": 24,
+    "path": "icons/contact_setting/contact_setting-24.svg",
+    "sha256": "e649036f795369e40838e228aa86d0a564c30a7bc8f5de3ee1cebbe4dce28638"
+  },
+  {
+    "id": "sura-contact_setting-32",
+    "name": "contact_setting",
+    "size": 32,
+    "path": "icons/contact_setting/contact_setting-32.svg",
+    "sha256": "c230cd8c117aab814a9c81194d96650628f138935a737a464c366e9afa64ca1b"
+  },
+  {
+    "id": "sura-events-12",
+    "name": "events",
+    "size": 12,
+    "path": "icons/events/events-12.svg",
+    "sha256": "64281592a7bfc5e56fe0e3988db59e4452592518594b550fa66cff62f5ec4d5c"
+  },
+  {
+    "id": "sura-events-16",
+    "name": "events",
+    "size": 16,
+    "path": "icons/events/events-16.svg",
+    "sha256": "d2ba1ee0b4584a13289813363afaa64444d8c325319e0e53b8f8c4e73f854e9f"
+  },
+  {
+    "id": "sura-events-24",
+    "name": "events",
+    "size": 24,
+    "path": "icons/events/events-24.svg",
+    "sha256": "0a04b291a1c848b8581400e01cfe56ba32f66426bb8c5872e54a8ae73e0a020f"
+  },
+  {
+    "id": "sura-events-32",
+    "name": "events",
+    "size": 32,
+    "path": "icons/events/events-32.svg",
+    "sha256": "709a725fa984d9efb5f7554dfa231410df0426c2a65ad1b1955d8db614a868f9"
+  },
+  {
+    "id": "sura-behavior-12",
+    "name": "behavior",
+    "size": 12,
+    "path": "icons/behavior/behavior-12.svg",
+    "sha256": "5a5878aa115f1962afefd5f070495516f594fc26d64c4c1d43d9f8b77f38c3b2"
+  },
+  {
+    "id": "sura-behavior-16",
+    "name": "behavior",
+    "size": 16,
+    "path": "icons/behavior/behavior-16.svg",
+    "sha256": "53e27ea14e2b08cba27891d359736f33cdc21de2cec0cf32555813493f5cfcf5"
+  },
+  {
+    "id": "sura-behavior-24",
+    "name": "behavior",
+    "size": 24,
+    "path": "icons/behavior/behavior-24.svg",
+    "sha256": "8cc9f07414ab0ef5bd8dc7bf6c5bd20f7e34f706fbb7c98ada5504da74530aae"
+  },
+  {
+    "id": "sura-behavior-32",
+    "name": "behavior",
+    "size": 32,
+    "path": "icons/behavior/behavior-32.svg",
+    "sha256": "2517847aa01dd70de02786a6d1e41680f40ad40837a07198e78ec0e49b97a0c1"
+  },
+  {
+    "id": "sura-filter-12",
+    "name": "filter",
+    "size": 12,
+    "path": "icons/filter/filter-12.svg",
+    "sha256": "5d7a2b5f64fb7e80df4a04406c8a13624ba539d5b26bf76374d60a29806c7773"
+  },
+  {
+    "id": "sura-filter-16",
+    "name": "filter",
+    "size": 16,
+    "path": "icons/filter/filter-16.svg",
+    "sha256": "65bf07d9724995258c60baca9bd0c62c8181e7cf5dab10e3569e84aff03cc33b"
+  },
+  {
+    "id": "sura-filter-24",
+    "name": "filter",
+    "size": 24,
+    "path": "icons/filter/filter-24.svg",
+    "sha256": "ce6fbadcf73a99f49d961e290381b3bcf4ec253b0743c2afbd7817810621d999"
+  },
+  {
+    "id": "sura-filter-32",
+    "name": "filter",
+    "size": 32,
+    "path": "icons/filter/filter-32.svg",
+    "sha256": "79e0ddfb48ef4061a77c65648dd28ad197e414b4c0132b74ac9e27a92e0388c0"
+  },
+  {
+    "id": "sura-tag-12",
+    "name": "tag",
+    "size": 12,
+    "path": "icons/tag/tag-12.svg",
+    "sha256": "6255b780f8b6a5da8347bb3db5466d2c60e6afde55ea793e29586264ed8d093f"
+  },
+  {
+    "id": "sura-tag-16",
+    "name": "tag",
+    "size": 16,
+    "path": "icons/tag/tag-16.svg",
+    "sha256": "485970324591afb40d0097dc365306c13a708fdb91779747009f2867abfc0015"
+  },
+  {
+    "id": "sura-tag-24",
+    "name": "tag",
+    "size": 24,
+    "path": "icons/tag/tag-24.svg",
+    "sha256": "1623bf600119e9aee0840b605a2370a760eed270e1773f966be2647d8c2d1d10"
+  },
+  {
+    "id": "sura-tag-32",
+    "name": "tag",
+    "size": 32,
+    "path": "icons/tag/tag-32.svg",
+    "sha256": "c2608fab19127f9a52a83f8cccd15cf17ff5d5644e5a30464d1224719314c987"
+  },
+  {
+    "id": "sura-collaps_left-12",
+    "name": "collaps_left",
+    "size": 12,
+    "path": "icons/collaps_left/collaps_left-12.svg",
+    "sha256": "0e8ef883b08b32a3861a8ca4aba5ea0ee58d5fea489011663438d667a7c44c88"
+  },
+  {
+    "id": "sura-collaps_left-16",
+    "name": "collaps_left",
+    "size": 16,
+    "path": "icons/collaps_left/collaps_left-16.svg",
+    "sha256": "cc9366691a9582a7b8251c288da4f7d39971a60d1299dc4d532f22197369650c"
+  },
+  {
+    "id": "sura-collaps_left-24",
+    "name": "collaps_left",
+    "size": 24,
+    "path": "icons/collaps_left/collaps_left-24.svg",
+    "sha256": "ccb5b0270ca072ee7152b09cbb7938a0f5a11f61bb7172b1d69ecbb2497f5516"
+  },
+  {
+    "id": "sura-collaps_left-32",
+    "name": "collaps_left",
+    "size": 32,
+    "path": "icons/collaps_left/collaps_left-32.svg",
+    "sha256": "3efc5ebd94ad31b1e851a8f5a159aa70dbd511a965495d18bccbdd9abfb2eb04"
+  },
+  {
+    "id": "sura-collapse_right-12",
+    "name": "collapse_right",
+    "size": 12,
+    "path": "icons/collapse_right/collapse_right-12.svg",
+    "sha256": "6ae8f557294e1b5ee0db7d64cfd040c9343c8bb2af51a402f5360be007feec93"
+  },
+  {
+    "id": "sura-collapse_right-16",
+    "name": "collapse_right",
+    "size": 16,
+    "path": "icons/collapse_right/collapse_right-16.svg",
+    "sha256": "2f34ff36db07335d530e58e3338753400c6a776bfe30f88c1d6a45aa6beb998f"
+  },
+  {
+    "id": "sura-collapse_right-24",
+    "name": "collapse_right",
+    "size": 24,
+    "path": "icons/collapse_right/collapse_right-24.svg",
+    "sha256": "01494237bf8a9fb47213982c0b8150bc889246dd4f6e2f70c59d787e7668a8f1"
+  },
+  {
+    "id": "sura-collapse_right-32",
+    "name": "collapse_right",
+    "size": 32,
+    "path": "icons/collapse_right/collapse_right-32.svg",
+    "sha256": "dbb01318832c0b7a392693e28afbf2f9181d909e19ae452fda8f05c2c287b7d6"
+  },
+  {
+    "id": "sura-paperclip-12",
+    "name": "paperclip",
+    "size": 12,
+    "path": "icons/paperclip/paperclip-12.svg",
+    "sha256": "bf4af8ee337e99bc572ad378e5060ac59d8bb0cf67d222e7ba582ea772e6590f"
+  },
+  {
+    "id": "sura-paperclip-16",
+    "name": "paperclip",
+    "size": 16,
+    "path": "icons/paperclip/paperclip-16.svg",
+    "sha256": "b6f54e4787f89688149adc0eb7a13b28124927f3c7838303a3d611230691caa0"
+  },
+  {
+    "id": "sura-paperclip-24",
+    "name": "paperclip",
+    "size": 24,
+    "path": "icons/paperclip/paperclip-24.svg",
+    "sha256": "872f8b33f99848b821e869182f5fec00a19d033bb11a50c0c7a5ce15ddadc3dc"
+  },
+  {
+    "id": "sura-paperclip-32",
+    "name": "paperclip",
+    "size": 32,
+    "path": "icons/paperclip/paperclip-32.svg",
+    "sha256": "6ceb443efd628d54ea71dd705c3931f6090a211318d62be08c8a354c3292efed"
+  },
+  {
+    "id": "sura-chevron-right-12",
+    "name": "chevron-right",
+    "size": 12,
+    "path": "icons/chevron-right/chevron-right-12.svg",
+    "sha256": "040452cf43e32dda6400d5a0b6ad3675fb786bbf3a0eb79aa81a010b7e323e3c"
+  },
+  {
+    "id": "sura-chevron-right-16",
+    "name": "chevron-right",
+    "size": 16,
+    "path": "icons/chevron-right/chevron-right-16.svg",
+    "sha256": "7e4da404bdf6e97c42f1e0de413fbcf8ec9ffdb0a8dc0c714c0af879b884ba19"
+  },
+  {
+    "id": "sura-chevron-right-24",
+    "name": "chevron-right",
+    "size": 24,
+    "path": "icons/chevron-right/chevron-right-24.svg",
+    "sha256": "9a152e0341d5c5e3d159d29b8b153980ba085881c36b58b4a2795b6754fc0bd1"
+  },
+  {
+    "id": "sura-chevron-right-32",
+    "name": "chevron-right",
+    "size": 32,
+    "path": "icons/chevron-right/chevron-right-32.svg",
+    "sha256": "ab9aa911389610c7d34549e34336c4cf53c4fde90911cae7640147f90d7531c5"
+  },
+  {
+    "id": "sura-cross-12",
+    "name": "cross",
+    "size": 12,
+    "path": "icons/cross/cross-12.svg",
+    "sha256": "3e8974a14d6530eeb7d631b5ed91658ea8f9b52624782293893caf86590ef456"
+  },
+  {
+    "id": "sura-cross-16",
+    "name": "cross",
+    "size": 16,
+    "path": "icons/cross/cross-16.svg",
+    "sha256": "cdd7201117421432313386bab4a19a2243551907645b731bd7eb676cef78ff09"
+  },
+  {
+    "id": "sura-cross-24",
+    "name": "cross",
+    "size": 24,
+    "path": "icons/cross/cross-24.svg",
+    "sha256": "a2b6a33f5a4b507724cbaba478349a103c0390d9bea7d0aaf332649773df4bcb"
+  },
+  {
+    "id": "sura-cross-32",
+    "name": "cross",
+    "size": 32,
+    "path": "icons/cross/cross-32.svg",
+    "sha256": "4dc71a1fd6c0fa693b8a3cab948700f17e43312cc1bb7c96af6d0e842eaa78cc"
+  },
+  {
+    "id": "sura-chevron_left-12",
+    "name": "chevron_left",
+    "size": 12,
+    "path": "icons/chevron_left/chevron_left-12.svg",
+    "sha256": "a201d96b9bde4522d732f5f22b09af0360ca5e24dbc98036b2ba93ccc3be03af"
+  },
+  {
+    "id": "sura-chevron_left-16",
+    "name": "chevron_left",
+    "size": 16,
+    "path": "icons/chevron_left/chevron_left-16.svg",
+    "sha256": "d4a61b29ec0323540724f78afa7bce3f4d65ba34d28b63054d3a9e9eefdfb086"
+  },
+  {
+    "id": "sura-chevron_left-24",
+    "name": "chevron_left",
+    "size": 24,
+    "path": "icons/chevron_left/chevron_left-24.svg",
+    "sha256": "001bf94653285e84be0ddba5ee2643f9f0d36d1691ca6eed5481f189b1471514"
+  },
+  {
+    "id": "sura-chevron_left-32",
+    "name": "chevron_left",
+    "size": 32,
+    "path": "icons/chevron_left/chevron_left-32.svg",
+    "sha256": "b23fa7631431d50d9a58896cfae2190caa7eec29a76df595b3755ae7e7164557"
+  },
+  {
+    "id": "sura-arrow_left--39-631-12",
+    "name": "arrow_left--39-631",
+    "size": 12,
+    "path": "icons/arrow_left--39-631/arrow_left--39-631-12.svg",
+    "sha256": "82acf9d7543643fc8985457e7b77a9d6e907687ce7d7f3159a1c620f3b421687"
+  },
+  {
+    "id": "sura-arrow_left--39-631-16",
+    "name": "arrow_left--39-631",
+    "size": 16,
+    "path": "icons/arrow_left--39-631/arrow_left--39-631-16.svg",
+    "sha256": "ec37c6cf69bfd2fc22d73da89ec00c05a08e249980b25ac9246fa9d0ca9ee22b"
+  },
+  {
+    "id": "sura-arrow_left--39-631-24",
+    "name": "arrow_left--39-631",
+    "size": 24,
+    "path": "icons/arrow_left--39-631/arrow_left--39-631-24.svg",
+    "sha256": "cdb90229f9818b60eddd93e97e5c29144631e1bd9b901393c32703365eae2b07"
+  },
+  {
+    "id": "sura-arrow_left--39-631-32",
+    "name": "arrow_left--39-631",
+    "size": 32,
+    "path": "icons/arrow_left--39-631/arrow_left--39-631-32.svg",
+    "sha256": "22fbfb214346b0e4932b819eff8805d26318493abccfb61d30dfcd3c9472583b"
+  },
+  {
+    "id": "sura-arrow_left--92-365-12",
+    "name": "arrow_left--92-365",
+    "size": 12,
+    "path": "icons/arrow_left--92-365/arrow_left--92-365-12.svg",
+    "sha256": "55ad2e860293c7f425e0104680e0b5681540eba991e0691c91477ce818b96f39"
+  },
+  {
+    "id": "sura-arrow_left--92-365-16",
+    "name": "arrow_left--92-365",
+    "size": 16,
+    "path": "icons/arrow_left--92-365/arrow_left--92-365-16.svg",
+    "sha256": "c369a5820bb758346a3fc49c37c1fb065f64562bf9a90d37a0b78bc0f84ada02"
+  },
+  {
+    "id": "sura-arrow_left--92-365-24",
+    "name": "arrow_left--92-365",
+    "size": 24,
+    "path": "icons/arrow_left--92-365/arrow_left--92-365-24.svg",
+    "sha256": "58285ae76bdfe09ca25217cd156b50f8566d17be431fd1db39f30fec9d3c3582"
+  },
+  {
+    "id": "sura-arrow_left--92-365-32",
+    "name": "arrow_left--92-365",
+    "size": 32,
+    "path": "icons/arrow_left--92-365/arrow_left--92-365-32.svg",
+    "sha256": "30aadc2df125779e522b4c62ef79c91ef6e8951d9f0388b332a07eac2cc377c7"
+  },
+  {
+    "id": "sura-chevron_up-12",
+    "name": "chevron_up",
+    "size": 12,
+    "path": "icons/chevron_up/chevron_up-12.svg",
+    "sha256": "3910a9ed004fd7a8dfe78e74033e0e190dad6f48b1c04efc0ba6bfa1da8c66c8"
+  },
+  {
+    "id": "sura-chevron_up-16",
+    "name": "chevron_up",
+    "size": 16,
+    "path": "icons/chevron_up/chevron_up-16.svg",
+    "sha256": "30baa4c030e6cdf2d7a744d0bb1b5594006c3db38e53f7dc5926d378b980571a"
+  },
+  {
+    "id": "sura-chevron_up-24",
+    "name": "chevron_up",
+    "size": 24,
+    "path": "icons/chevron_up/chevron_up-24.svg",
+    "sha256": "0c52a7388f59073eae5f7afa22ca6c1a29c70fdc139e6e2110b3809e0b46ad8a"
+  },
+  {
+    "id": "sura-chevron_up-32",
+    "name": "chevron_up",
+    "size": 32,
+    "path": "icons/chevron_up/chevron_up-32.svg",
+    "sha256": "5ac9c841d0d625359e68c12f91e82fde08e475c4c30547a6061da16cb7c3413c"
+  },
+  {
+    "id": "sura-chevron_down-12",
+    "name": "chevron_down",
+    "size": 12,
+    "path": "icons/chevron_down/chevron_down-12.svg",
+    "sha256": "753ba9075a41c319045db316e14bad7d53578bec2568059ab23469cc1579e093"
+  },
+  {
+    "id": "sura-chevron_down-16",
+    "name": "chevron_down",
+    "size": 16,
+    "path": "icons/chevron_down/chevron_down-16.svg",
+    "sha256": "92f2789a5d8e8f47797efafb8fb647b7709c311e7a9b8f0662304a245a3cda15"
+  },
+  {
+    "id": "sura-chevron_down-24",
+    "name": "chevron_down",
+    "size": 24,
+    "path": "icons/chevron_down/chevron_down-24.svg",
+    "sha256": "bbda3b2540061a5455d8cf9cc4349152407ff7af0e981b86e3b96322af76602d"
+  },
+  {
+    "id": "sura-chevron_down-32",
+    "name": "chevron_down",
+    "size": 32,
+    "path": "icons/chevron_down/chevron_down-32.svg",
+    "sha256": "a921908f4e9b9707d461bd703aa3efa59bc47ad276f7edbd411b35c75a33c088"
+  },
+  {
+    "id": "sura-chevrons_right-12",
+    "name": "chevrons_right",
+    "size": 12,
+    "path": "icons/chevrons_right/chevrons_right-12.svg",
+    "sha256": "ecd39f98b1f04994624b44fe77b37dd0bd1500b9993bbf77c6e674672de17333"
+  },
+  {
+    "id": "sura-chevrons_right-16",
+    "name": "chevrons_right",
+    "size": 16,
+    "path": "icons/chevrons_right/chevrons_right-16.svg",
+    "sha256": "57d252998b0c5ef7b402e828b40cccd83b227fbefc41059cfff5fb76292829c9"
+  },
+  {
+    "id": "sura-chevrons_right-24",
+    "name": "chevrons_right",
+    "size": 24,
+    "path": "icons/chevrons_right/chevrons_right-24.svg",
+    "sha256": "caf0d7d44d88cdfbc7b508148c143dc29a784098db8a81ac7bd72cfbf0710e28"
+  },
+  {
+    "id": "sura-chevrons_right-32",
+    "name": "chevrons_right",
+    "size": 32,
+    "path": "icons/chevrons_right/chevrons_right-32.svg",
+    "sha256": "4ad3c01ab1dfa02bd6113ef11b4c13c7cb8d02d81372aa0b28040898d9680248"
+  },
+  {
+    "id": "sura-angles_up_down-12",
+    "name": "angles_up_down",
+    "size": 12,
+    "path": "icons/angles_up_down/angles_up_down-12.svg",
+    "sha256": "e5adb97896e11f4aad14c274738de58a10b503327fb1d56b62f5c9090ccba15d"
+  },
+  {
+    "id": "sura-angles_up_down-16",
+    "name": "angles_up_down",
+    "size": 16,
+    "path": "icons/angles_up_down/angles_up_down-16.svg",
+    "sha256": "fdf24959e63d4d1372c1263ebc861c0a226ecf03f4409c952d6a8d6c6773dcec"
+  },
+  {
+    "id": "sura-angles_up_down-24",
+    "name": "angles_up_down",
+    "size": 24,
+    "path": "icons/angles_up_down/angles_up_down-24.svg",
+    "sha256": "fb7455191038441256d75111ca73e59965b91541d421d797dec9f307242bc194"
+  },
+  {
+    "id": "sura-angles_up_down-32",
+    "name": "angles_up_down",
+    "size": 32,
+    "path": "icons/angles_up_down/angles_up_down-32.svg",
+    "sha256": "4eab3cc55a89c7218860b78e2201e71ab23bc481dfebfcc14a0199ac5a27d048"
+  },
+  {
+    "id": "sura-chevrons_left-12",
+    "name": "chevrons_left",
+    "size": 12,
+    "path": "icons/chevrons_left/chevrons_left-12.svg",
+    "sha256": "6b48d2a171008b4596cdf6ebb834d6dbb045e9e39eb8a3c6c30024ba318431b9"
+  },
+  {
+    "id": "sura-chevrons_left-16",
+    "name": "chevrons_left",
+    "size": 16,
+    "path": "icons/chevrons_left/chevrons_left-16.svg",
+    "sha256": "b649d96b16a9ad0bed51f794d5e7494317bea5d7a8bf1b6e87224a5641040b61"
+  },
+  {
+    "id": "sura-chevrons_left-24",
+    "name": "chevrons_left",
+    "size": 24,
+    "path": "icons/chevrons_left/chevrons_left-24.svg",
+    "sha256": "32038cb61719cf824455f59bfdfc85bc032bc3ddc2b45019b9000ae0cb112701"
+  },
+  {
+    "id": "sura-chevrons_left-32",
+    "name": "chevrons_left",
+    "size": 32,
+    "path": "icons/chevrons_left/chevrons_left-32.svg",
+    "sha256": "1118963cc01dbd76893c50ac424d5e50e225c7efac5a531a41e0200d84f71ea5"
+  },
+  {
+    "id": "sura-plus-12",
+    "name": "plus",
+    "size": 12,
+    "path": "icons/plus/plus-12.svg",
+    "sha256": "dfacda2e24a9fb53180685393979ea2d1233707e8ede73ccea4c25d789e8c540"
+  },
+  {
+    "id": "sura-plus-16",
+    "name": "plus",
+    "size": 16,
+    "path": "icons/plus/plus-16.svg",
+    "sha256": "b053854d7abd70624826b06451a76b0a3b6e3444db500f2f5e8b7a3e49ad8533"
+  },
+  {
+    "id": "sura-plus-24",
+    "name": "plus",
+    "size": 24,
+    "path": "icons/plus/plus-24.svg",
+    "sha256": "aa6fcebaf929807aa98a7f1f88a4071e68885790fc29f00f073050c5d7fc1973"
+  },
+  {
+    "id": "sura-plus-32",
+    "name": "plus",
+    "size": 32,
+    "path": "icons/plus/plus-32.svg",
+    "sha256": "05dad45c6c311145aa07b1e9dc215e267fe5bfde324d078b688cb2ca14ced5f0"
+  },
+  {
+    "id": "sura-square_plus-12",
+    "name": "square_plus",
+    "size": 12,
+    "path": "icons/square_plus/square_plus-12.svg",
+    "sha256": "84e871c309797a6a4f01f762e0e37782e19bef407acfce81bfebd2053b802f1a"
+  },
+  {
+    "id": "sura-square_plus-16",
+    "name": "square_plus",
+    "size": 16,
+    "path": "icons/square_plus/square_plus-16.svg",
+    "sha256": "6805948eb1196a519ecaa92c311cd2d948e2436ae04baa78597706b662410cbd"
+  },
+  {
+    "id": "sura-square_plus-24",
+    "name": "square_plus",
+    "size": 24,
+    "path": "icons/square_plus/square_plus-24.svg",
+    "sha256": "7a89e9b2c62b240cf1dec7d629dd150d32fe9947fb0a56bb15b3bd3109824f5f"
+  },
+  {
+    "id": "sura-square_plus-32",
+    "name": "square_plus",
+    "size": 32,
+    "path": "icons/square_plus/square_plus-32.svg",
+    "sha256": "bdad15b043fafb944fbdbdaccbf99f7eb0b1f9becd56d1448589570b9fee6c74"
+  },
+  {
+    "id": "sura-square_minus-12",
+    "name": "square_minus",
+    "size": 12,
+    "path": "icons/square_minus/square_minus-12.svg",
+    "sha256": "d56a20b88e2fdd02c9dff921972e5d718612a017ce03971ca1d5b56a289a31d7"
+  },
+  {
+    "id": "sura-square_minus-16",
+    "name": "square_minus",
+    "size": 16,
+    "path": "icons/square_minus/square_minus-16.svg",
+    "sha256": "78472624f188a22fa03dc4e5c70983f5e3be4af231987a9e0c84651c2da0e7a5"
+  },
+  {
+    "id": "sura-square_minus-24",
+    "name": "square_minus",
+    "size": 24,
+    "path": "icons/square_minus/square_minus-24.svg",
+    "sha256": "b745ea9cffc67c8987abcb208b4addd959725354db78050b8625e64fa631cd38"
+  },
+  {
+    "id": "sura-square_minus-32",
+    "name": "square_minus",
+    "size": 32,
+    "path": "icons/square_minus/square_minus-32.svg",
+    "sha256": "167e015767e2e53bc56fd72cbc831e3a0d21369429996fd02f1d65e52bf052c4"
+  },
+  {
+    "id": "sura-minus-12",
+    "name": "minus",
+    "size": 12,
+    "path": "icons/minus/minus-12.svg",
+    "sha256": "036e6c739f836c9be5f34efe79c34233337870acc770a88bb251aa6f6f523dc7"
+  },
+  {
+    "id": "sura-minus-16",
+    "name": "minus",
+    "size": 16,
+    "path": "icons/minus/minus-16.svg",
+    "sha256": "63b5f90f591520f22a065f866078f2e83966b4e64abca27be75df9e62b720077"
+  },
+  {
+    "id": "sura-minus-24",
+    "name": "minus",
+    "size": 24,
+    "path": "icons/minus/minus-24.svg",
+    "sha256": "6cf0af4b3d33d6209dbbe11399e90acc1e04445625b512b2dcd1ea08a98a081a"
+  },
+  {
+    "id": "sura-minus-32",
+    "name": "minus",
+    "size": 32,
+    "path": "icons/minus/minus-32.svg",
+    "sha256": "90a8be13047084ee8013be787d9461207ff68ec0724587eb388f872028626491"
+  },
+  {
+    "id": "sura-grid_dots-12",
+    "name": "grid_dots",
+    "size": 12,
+    "path": "icons/grid_dots/grid_dots-12.svg",
+    "sha256": "99320c91e56fadd787579d7c7193a8371a4a4af14f7213fd3148618a3968cf84"
+  },
+  {
+    "id": "sura-grid_dots-16",
+    "name": "grid_dots",
+    "size": 16,
+    "path": "icons/grid_dots/grid_dots-16.svg",
+    "sha256": "02943d845442bdf429f71c1c8a6ab220b9d487f8e02ee667a7e9e54dfa78dc3e"
+  },
+  {
+    "id": "sura-grid_dots-24",
+    "name": "grid_dots",
+    "size": 24,
+    "path": "icons/grid_dots/grid_dots-24.svg",
+    "sha256": "14bac994acb543d5a2f8e7bb5fdc8190c22798159b5a844357dd50ac1c0fbb31"
+  },
+  {
+    "id": "sura-grid_dots-32",
+    "name": "grid_dots",
+    "size": 32,
+    "path": "icons/grid_dots/grid_dots-32.svg",
+    "sha256": "1bfe35c3303573636a89db4cc5064288b46a2cfd212521e6a946bdb11636e9ec"
+  },
+  {
+    "id": "sura-devider-12",
+    "name": "devider",
+    "size": 12,
+    "path": "icons/devider/devider-12.svg",
+    "sha256": "f4be99d089aa6f3e639f232da32ce218cb8222001f02a272fa0ba66905b9b819"
+  },
+  {
+    "id": "sura-devider-16",
+    "name": "devider",
+    "size": 16,
+    "path": "icons/devider/devider-16.svg",
+    "sha256": "593d64a4c0076b9c32c4bcf24a4b6ca86cf4294628728cb53094255fc97b5d22"
+  },
+  {
+    "id": "sura-devider-24",
+    "name": "devider",
+    "size": 24,
+    "path": "icons/devider/devider-24.svg",
+    "sha256": "2cab38f5a0054b98444094b241a8ed7fb5884fcf1a2e21d7bfd5022b8d59d1ef"
+  },
+  {
+    "id": "sura-devider-32",
+    "name": "devider",
+    "size": 32,
+    "path": "icons/devider/devider-32.svg",
+    "sha256": "0345ae7424347bbdb10c6fdab0d583957f7e79cd6724eb9033c09281ba9447c1"
+  },
+  {
+    "id": "sura-arrow_right-12",
+    "name": "arrow_right",
+    "size": 12,
+    "path": "icons/arrow_right/arrow_right-12.svg",
+    "sha256": "ac03571a2150372ce30b9af648da8b815de615bfeaad825b1b2fafe740e37e2e"
+  },
+  {
+    "id": "sura-arrow_right-16",
+    "name": "arrow_right",
+    "size": 16,
+    "path": "icons/arrow_right/arrow_right-16.svg",
+    "sha256": "27d0575eda8ad14c88990ff141185ced0042755b4996962c06f484e3b97ecb7e"
+  },
+  {
+    "id": "sura-arrow_right-24",
+    "name": "arrow_right",
+    "size": 24,
+    "path": "icons/arrow_right/arrow_right-24.svg",
+    "sha256": "19b28b94a752759c794483090ba9e6b004d5a7ba2dad093b47cf8e9b1d5f3de2"
+  },
+  {
+    "id": "sura-arrow_right-32",
+    "name": "arrow_right",
+    "size": 32,
+    "path": "icons/arrow_right/arrow_right-32.svg",
+    "sha256": "d3bb3d1f309990be2feae5beef859e2768be3dbe57789d0622805d9e690d8302"
+  },
+  {
+    "id": "sura-arrow_up-12",
+    "name": "arrow_up",
+    "size": 12,
+    "path": "icons/arrow_up/arrow_up-12.svg",
+    "sha256": "ea2fb3f797fae904259973a6599138eb6dce4db192331bdb4ce17db6a44ae62e"
+  },
+  {
+    "id": "sura-arrow_up-16",
+    "name": "arrow_up",
+    "size": 16,
+    "path": "icons/arrow_up/arrow_up-16.svg",
+    "sha256": "83b28dfc752e6b0c037b72f804e741e70a1841d09af27492c58e9962c3191403"
+  },
+  {
+    "id": "sura-arrow_up-24",
+    "name": "arrow_up",
+    "size": 24,
+    "path": "icons/arrow_up/arrow_up-24.svg",
+    "sha256": "c399f2d847287569e149196d92674b8de1d95bf870c0089c6c850af8fac603ab"
+  },
+  {
+    "id": "sura-arrow_up-32",
+    "name": "arrow_up",
+    "size": 32,
+    "path": "icons/arrow_up/arrow_up-32.svg",
+    "sha256": "2a8147f36ccc691b911217874cc1052c5fbb4a2f18a40c4705475058098aaf46"
+  },
+  {
+    "id": "sura-arrow_down-12",
+    "name": "arrow_down",
+    "size": 12,
+    "path": "icons/arrow_down/arrow_down-12.svg",
+    "sha256": "6a7e0c74fbd12aad0d60f072f4847190c0ac4f969fcb731c9b285002301509b7"
+  },
+  {
+    "id": "sura-arrow_down-16",
+    "name": "arrow_down",
+    "size": 16,
+    "path": "icons/arrow_down/arrow_down-16.svg",
+    "sha256": "d472db843f42c51ddd7861073422815a0632024bca6e5ed15b758834833aff8b"
+  },
+  {
+    "id": "sura-arrow_down-24",
+    "name": "arrow_down",
+    "size": 24,
+    "path": "icons/arrow_down/arrow_down-24.svg",
+    "sha256": "8e36bf539e7723e802a08c2adae72052fa1e783ab57dd79db2af2a6fdfea30c7"
+  },
+  {
+    "id": "sura-arrow_down-32",
+    "name": "arrow_down",
+    "size": 32,
+    "path": "icons/arrow_down/arrow_down-32.svg",
+    "sha256": "5b7e036e4089bd7bdfaf3049ff8dd444f8b5745dc2dbbddb8067b503de76cfa9"
+  },
+  {
+    "id": "sura-menu-12",
+    "name": "menu",
+    "size": 12,
+    "path": "icons/menu/menu-12.svg",
+    "sha256": "42816fe59e68b7c0ed375db2afbbc1cf8453cfd309cf78d1500b419c0bd188d8"
+  },
+  {
+    "id": "sura-menu-16",
+    "name": "menu",
+    "size": 16,
+    "path": "icons/menu/menu-16.svg",
+    "sha256": "8c63ae6a5fb7c3aa41fdbe6804c3d8496b68c5279cb356fc1e7bab0534cd9a16"
+  },
+  {
+    "id": "sura-menu-24",
+    "name": "menu",
+    "size": 24,
+    "path": "icons/menu/menu-24.svg",
+    "sha256": "a63eb4044e5fab8a0bc4983528b418888c9e4d111f5cefd71bc90d69ec9db6b0"
+  },
+  {
+    "id": "sura-menu-32",
+    "name": "menu",
+    "size": 32,
+    "path": "icons/menu/menu-32.svg",
+    "sha256": "27cd91c97828c671bf507072b9ed99c860b8a22a336d554067d2be428aab3510"
+  },
+  {
+    "id": "sura-share-12",
+    "name": "share",
+    "size": 12,
+    "path": "icons/share/share-12.svg",
+    "sha256": "ff770b0cb132f182c4ca1548cb20e7f1e47bda9bcf36a67eeea33d170cbae5a3"
+  },
+  {
+    "id": "sura-share-16",
+    "name": "share",
+    "size": 16,
+    "path": "icons/share/share-16.svg",
+    "sha256": "ebef6784909958c0cdebccbf534b98de1d3aae7c046445bdfbc336bd10ace4d1"
+  },
+  {
+    "id": "sura-share-24",
+    "name": "share",
+    "size": 24,
+    "path": "icons/share/share-24.svg",
+    "sha256": "c1fae5ce9c219493d34417c7fded95d14d507679518a8c80ae9a11f63f732a1a"
+  },
+  {
+    "id": "sura-share-32",
+    "name": "share",
+    "size": 32,
+    "path": "icons/share/share-32.svg",
+    "sha256": "90db6c3f9d2f45acef65640646cdec8b6309f3ef9badbb67de592f0cb752b810"
+  },
+  {
+    "id": "sura-connect-12",
+    "name": "connect",
+    "size": 12,
+    "path": "icons/connect/connect-12.svg",
+    "sha256": "203dd445d52fee25a8c2e3b58e993d4bfd9ba74ba8496ac8d9281b493a3f32fd"
+  },
+  {
+    "id": "sura-connect-16",
+    "name": "connect",
+    "size": 16,
+    "path": "icons/connect/connect-16.svg",
+    "sha256": "1d3141bada327f5787f5ae56b3e875a821b87ad85bdb9fdbb22e287da6424bb1"
+  },
+  {
+    "id": "sura-connect-24",
+    "name": "connect",
+    "size": 24,
+    "path": "icons/connect/connect-24.svg",
+    "sha256": "884ae9cbb7c0c34c4c48ed4a645c80d1c071028841534e2ae56f136bd36cbcb1"
+  },
+  {
+    "id": "sura-connect-32",
+    "name": "connect",
+    "size": 32,
+    "path": "icons/connect/connect-32.svg",
+    "sha256": "99eb0aab0a7a53c06087479f789f70c6ca98a657a9f8f5881b5ba2ec4227f7c9"
+  },
+  {
+    "id": "sura-link-12",
+    "name": "link",
+    "size": 12,
+    "path": "icons/link/link-12.svg",
+    "sha256": "492d45655ee85d91930f6777a70f9117ac5f4da2452e4849a617e85ea0d0f10a"
+  },
+  {
+    "id": "sura-link-16",
+    "name": "link",
+    "size": 16,
+    "path": "icons/link/link-16.svg",
+    "sha256": "5d130da10352c0984c8b388f10df58a9941df7130758a1bcc591904165a78962"
+  },
+  {
+    "id": "sura-link-24",
+    "name": "link",
+    "size": 24,
+    "path": "icons/link/link-24.svg",
+    "sha256": "5b60680ab8364aab162081d6b3e03f793a54b4135eef0e28153708f57d7e6f94"
+  },
+  {
+    "id": "sura-link-32",
+    "name": "link",
+    "size": 32,
+    "path": "icons/link/link-32.svg",
+    "sha256": "112bcd86c8dad90bc5f543990f0f56d67ea40bf95da3780b423802f516e00e59"
+  },
+  {
+    "id": "sura-edit-12",
+    "name": "edit",
+    "size": 12,
+    "path": "icons/edit/edit-12.svg",
+    "sha256": "2e4af4bc63a41915d095d3eea868637e130a8b22805fdcca57e8e705f813d291"
+  },
+  {
+    "id": "sura-edit-16",
+    "name": "edit",
+    "size": 16,
+    "path": "icons/edit/edit-16.svg",
+    "sha256": "4cd8178fea7d0ad59eab891985fee2ac947c1a3cd0fe352f7d40d6a54bb7e29e"
+  },
+  {
+    "id": "sura-edit-24",
+    "name": "edit",
+    "size": 24,
+    "path": "icons/edit/edit-24.svg",
+    "sha256": "2f2550d2556f34f3e67808f258619392eeaf538c5fe7c3eb6d3fecc097097951"
+  },
+  {
+    "id": "sura-edit-32",
+    "name": "edit",
+    "size": 32,
+    "path": "icons/edit/edit-32.svg",
+    "sha256": "472fab3d255547ed79564b9057c100b13374f7e3eac76af259c1fe1dcf3bb1e9"
+  },
+  {
+    "id": "sura-warning-12",
+    "name": "warning",
+    "size": 12,
+    "path": "icons/warning/warning-12.svg",
+    "sha256": "9448a6dd08bc0fc9053a8352bba54d7337f026d672428e58bcdf1ab90e9c35bc"
+  },
+  {
+    "id": "sura-warning-16",
+    "name": "warning",
+    "size": 16,
+    "path": "icons/warning/warning-16.svg",
+    "sha256": "0a8383ebcf75e98e5cf886895c187e3cedc688aac0e3d3f61d8043d0a30dec08"
+  },
+  {
+    "id": "sura-warning-24",
+    "name": "warning",
+    "size": 24,
+    "path": "icons/warning/warning-24.svg",
+    "sha256": "7e065621da1219552ad76d218537bda335241babb91f94983eb7e42e8139ebfb"
+  },
+  {
+    "id": "sura-warning-32",
+    "name": "warning",
+    "size": 32,
+    "path": "icons/warning/warning-32.svg",
+    "sha256": "5da4adadb79fd346334d30fb92c10eb626e51cf2eeda871b9e769d82cc361b51"
+  },
+  {
+    "id": "sura-error-12",
+    "name": "error",
+    "size": 12,
+    "path": "icons/error/error-12.svg",
+    "sha256": "908cb20b61ce84bb9f195c48068012918f0b08a187d708d2d80528ab5283f9a0"
+  },
+  {
+    "id": "sura-error-16",
+    "name": "error",
+    "size": 16,
+    "path": "icons/error/error-16.svg",
+    "sha256": "bd95a0893d479d5557df8a702af2478b8a2f615ec1942aef57f33f62ec2dc452"
+  },
+  {
+    "id": "sura-error-24",
+    "name": "error",
+    "size": 24,
+    "path": "icons/error/error-24.svg",
+    "sha256": "8c572bc5dda94e4bb7b45416b789a05e1cf0a646255007c5a4f0a203da89d9fc"
+  },
+  {
+    "id": "sura-error-32",
+    "name": "error",
+    "size": 32,
+    "path": "icons/error/error-32.svg",
+    "sha256": "7c0716327003a0e1c90562eec11a911dc6884435312e72dceaee1456a4a14fa6"
+  },
+  {
+    "id": "sura-reload-12",
+    "name": "reload",
+    "size": 12,
+    "path": "icons/reload/reload-12.svg",
+    "sha256": "216beb9bbd81664ec4c9ef8be6bbe2e77bbfe5e4940886a49ea07e7c0c5e0324"
+  },
+  {
+    "id": "sura-reload-16",
+    "name": "reload",
+    "size": 16,
+    "path": "icons/reload/reload-16.svg",
+    "sha256": "58d7211fa68128115833c67b1b344d64c52b74414a8c14b84f2c930bf62dcd24"
+  },
+  {
+    "id": "sura-reload-24",
+    "name": "reload",
+    "size": 24,
+    "path": "icons/reload/reload-24.svg",
+    "sha256": "87514841c48450d8d48879840a537e1d662bb687886fe5a1195b74d8514b5aa6"
+  },
+  {
+    "id": "sura-reload-32",
+    "name": "reload",
+    "size": 32,
+    "path": "icons/reload/reload-32.svg",
+    "sha256": "44f5b939895548450bbd479b2248a923483a8f10f66fa2036fe3b7debb042b62"
+  },
+  {
+    "id": "sura-refresh-12",
+    "name": "refresh",
+    "size": 12,
+    "path": "icons/refresh/refresh-12.svg",
+    "sha256": "db71edef0c04dcba84f67e7ca8a6c44df9089c4266d6948f7b46d40af8d6939c"
+  },
+  {
+    "id": "sura-refresh-16",
+    "name": "refresh",
+    "size": 16,
+    "path": "icons/refresh/refresh-16.svg",
+    "sha256": "a1912014f0a578c5cdaac4df121e2d4ebf03679520d5faf0d896ec8a6d1b8b7e"
+  },
+  {
+    "id": "sura-refresh-24",
+    "name": "refresh",
+    "size": 24,
+    "path": "icons/refresh/refresh-24.svg",
+    "sha256": "2954b0e3f7bda35a451b35795d9db7e2515957aa50b631b9309020a9b7d98544"
+  },
+  {
+    "id": "sura-refresh-32",
+    "name": "refresh",
+    "size": 32,
+    "path": "icons/refresh/refresh-32.svg",
+    "sha256": "8a8b4cfd0846b9fe56e67c5909106cebf669fb07127b0a69a272a09cb1e1df29"
+  },
+  {
+    "id": "sura-project_folder-12",
+    "name": "project_folder",
+    "size": 12,
+    "path": "icons/project_folder/project_folder-12.svg",
+    "sha256": "991d3f736469a0f68de838eeb81457d807a9989498e9b922c9edd71921e7250c"
+  },
+  {
+    "id": "sura-project_folder-16",
+    "name": "project_folder",
+    "size": 16,
+    "path": "icons/project_folder/project_folder-16.svg",
+    "sha256": "39b15b938cb0e2938753630dc4ca7561a9eb1b9f0fd32bb80ca73f333d80b445"
+  },
+  {
+    "id": "sura-project_folder-24",
+    "name": "project_folder",
+    "size": 24,
+    "path": "icons/project_folder/project_folder-24.svg",
+    "sha256": "a4b1cb4eec3453df2d515a84bb9774affd3e283c34afb3ceea8112342f98667d"
+  },
+  {
+    "id": "sura-project_folder-32",
+    "name": "project_folder",
+    "size": 32,
+    "path": "icons/project_folder/project_folder-32.svg",
+    "sha256": "673eadcc90dc8c7bd0ccc298c289c47cf00bd197062a8b0f48929392468fc2f2"
+  },
+  {
+    "id": "sura-box-12",
+    "name": "box",
+    "size": 12,
+    "path": "icons/box/box-12.svg",
+    "sha256": "b006eefd8a3053564ffcfb35ba993dc47e9a11a0231c211874bfe3d1a0178514"
+  },
+  {
+    "id": "sura-box-16",
+    "name": "box",
+    "size": 16,
+    "path": "icons/box/box-16.svg",
+    "sha256": "e42dd0dd71f16bb7485125e9f4b22eae39646a4450e3cc92f51c75da80dea5cf"
+  },
+  {
+    "id": "sura-box-24",
+    "name": "box",
+    "size": 24,
+    "path": "icons/box/box-24.svg",
+    "sha256": "f1017a9dd6faff9b69763571a2ebe6c4c6856aa3533b6734b1cec741f4525674"
+  },
+  {
+    "id": "sura-box-32",
+    "name": "box",
+    "size": 32,
+    "path": "icons/box/box-32.svg",
+    "sha256": "27488532daa73118dc41da9f765a41b5bf18a750623b3d1501551b98c60e4247"
+  },
+  {
+    "id": "sura-compas-12",
+    "name": "compas",
+    "size": 12,
+    "path": "icons/compas/compas-12.svg",
+    "sha256": "686cfaaeb37e02df473611a1759d77d3f8fe57daa6cf9cfb6900a9c7f5802019"
+  },
+  {
+    "id": "sura-compas-16",
+    "name": "compas",
+    "size": 16,
+    "path": "icons/compas/compas-16.svg",
+    "sha256": "73e36a3bd7783831e121006e44401f671ed549ea4f646077a15543282bbe4566"
+  },
+  {
+    "id": "sura-compas-24",
+    "name": "compas",
+    "size": 24,
+    "path": "icons/compas/compas-24.svg",
+    "sha256": "d1a45ecb49a08dd8b722c826f8a95538007a8bd0d5b8a056ef4fe0045daff3d7"
+  },
+  {
+    "id": "sura-compas-32",
+    "name": "compas",
+    "size": 32,
+    "path": "icons/compas/compas-32.svg",
+    "sha256": "287726697919293e9cd774eba903676f1bd93d34b314704db3da84c6b4283141"
+  },
+  {
+    "id": "sura-round_check-12",
+    "name": "round_check",
+    "size": 12,
+    "path": "icons/round_check/round_check-12.svg",
+    "sha256": "36459836115469541362b8beaae902d30854e015a9d290dfb46a3353614818c1"
+  },
+  {
+    "id": "sura-round_check-16",
+    "name": "round_check",
+    "size": 16,
+    "path": "icons/round_check/round_check-16.svg",
+    "sha256": "49979d53ed86b00249900df5c98c0f26745504dbe054ed04a54ebee9a697705e"
+  },
+  {
+    "id": "sura-round_check-24",
+    "name": "round_check",
+    "size": 24,
+    "path": "icons/round_check/round_check-24.svg",
+    "sha256": "5f5e46c4821a04e8bfb0e1b362e2cac60bd0a3df9b46da4f3d45a1b828f11e74"
+  },
+  {
+    "id": "sura-round_check-32",
+    "name": "round_check",
+    "size": 32,
+    "path": "icons/round_check/round_check-32.svg",
+    "sha256": "feeb23992c3b1f0176013b1fbe9e75cbf3b270b07d7b7be6d0b2b4c52a1d5d60"
+  },
+  {
+    "id": "sura-user-12",
+    "name": "user",
+    "size": 12,
+    "path": "icons/user/user-12.svg",
+    "sha256": "2bd3eae22cb47f3a5b84c357196a99bf0e1924daa119e4708af2afa24870d25a"
+  },
+  {
+    "id": "sura-user-16",
+    "name": "user",
+    "size": 16,
+    "path": "icons/user/user-16.svg",
+    "sha256": "3c8a1b4d8d103f2ee1e59b5ae5c1088ad265efec9f35f2ac35b030ba73478a1c"
+  },
+  {
+    "id": "sura-user-24",
+    "name": "user",
+    "size": 24,
+    "path": "icons/user/user-24.svg",
+    "sha256": "7a4d6bdfab74a7b4b655c1eee92b881a9fb3559552c94b264eb71f75c7e134d5"
+  },
+  {
+    "id": "sura-user-32",
+    "name": "user",
+    "size": 32,
+    "path": "icons/user/user-32.svg",
+    "sha256": "0f628a4d7bad0f8ef094615b8bf65a8fb7b510d3fe15791a9b00c29fa5f81924"
+  },
+  {
+    "id": "sura-user_plus-12",
+    "name": "user_plus",
+    "size": 12,
+    "path": "icons/user_plus/user_plus-12.svg",
+    "sha256": "28343233ec622e0e36b31175dd334eb595c6411d875e664617eab48de1a125c5"
+  },
+  {
+    "id": "sura-user_plus-16",
+    "name": "user_plus",
+    "size": 16,
+    "path": "icons/user_plus/user_plus-16.svg",
+    "sha256": "c9138e70475f1e4f65762ee0dadf9cbc557fc072165a18f91f4c82cdf9a3e565"
+  },
+  {
+    "id": "sura-user_plus-24",
+    "name": "user_plus",
+    "size": 24,
+    "path": "icons/user_plus/user_plus-24.svg",
+    "sha256": "10f47201a09e0fe4f114a5c37578803f497f6e2526d71ee4af97216f5bd3bf6b"
+  },
+  {
+    "id": "sura-user_plus-32",
+    "name": "user_plus",
+    "size": 32,
+    "path": "icons/user_plus/user_plus-32.svg",
+    "sha256": "6b241cb2a5c064e935e1d3e95ab710112cf34dcb75e152d7bbe74025e1adb7eb"
+  },
+  {
+    "id": "sura-user_minus-12",
+    "name": "user_minus",
+    "size": 12,
+    "path": "icons/user_minus/user_minus-12.svg",
+    "sha256": "05b9b12f98d570b3db936006c62569a9da924546570c8c71361de9f9a1961c2c"
+  },
+  {
+    "id": "sura-user_minus-16",
+    "name": "user_minus",
+    "size": 16,
+    "path": "icons/user_minus/user_minus-16.svg",
+    "sha256": "4d1f0c5d27e9f6d0947875906422c977d3a753c92b72f7948e656827e462d0db"
+  },
+  {
+    "id": "sura-user_minus-24",
+    "name": "user_minus",
+    "size": 24,
+    "path": "icons/user_minus/user_minus-24.svg",
+    "sha256": "21e1e107c931103025cdf0c4eaf73240d86d5b066eed52fd452db228c4791250"
+  },
+  {
+    "id": "sura-user_minus-32",
+    "name": "user_minus",
+    "size": 32,
+    "path": "icons/user_minus/user_minus-32.svg",
+    "sha256": "5508f8f7dae0b8eb7a69d7f163a41d21516212eed86644c13d6504e0b547d4b6"
+  },
+  {
+    "id": "sura-user_remove-12",
+    "name": "user_remove",
+    "size": 12,
+    "path": "icons/user_remove/user_remove-12.svg",
+    "sha256": "3b024649a26cde30b93c478732f060fad0448f545ae1e1225baa3673cb647047"
+  },
+  {
+    "id": "sura-user_remove-16",
+    "name": "user_remove",
+    "size": 16,
+    "path": "icons/user_remove/user_remove-16.svg",
+    "sha256": "93761e0038b85614852c35548d916f0edddd71545f8315d9ba856b807dcb56bc"
+  },
+  {
+    "id": "sura-user_remove-24",
+    "name": "user_remove",
+    "size": 24,
+    "path": "icons/user_remove/user_remove-24.svg",
+    "sha256": "01b2933998edcb7b9bc357f9cc43b0c453d57e9f5a169ed92ae21aa0dcae1c8a"
+  },
+  {
+    "id": "sura-user_remove-32",
+    "name": "user_remove",
+    "size": 32,
+    "path": "icons/user_remove/user_remove-32.svg",
+    "sha256": "9f6e914b97422108d95eb583fb05090dc1b7aad1a5a740412883abdd8dd990c6"
+  },
+  {
+    "id": "sura-user_search-12",
+    "name": "user_search",
+    "size": 12,
+    "path": "icons/user_search/user_search-12.svg",
+    "sha256": "c8f59b7abe5c08a55d3b4733a38402ca387a14dda5717a45a174b2c5f94b577e"
+  },
+  {
+    "id": "sura-user_search-16",
+    "name": "user_search",
+    "size": 16,
+    "path": "icons/user_search/user_search-16.svg",
+    "sha256": "56ad403d0b29724f5fe75b387cc0dacee8fa9d0be44c195debcc0a4c192c3e6c"
+  },
+  {
+    "id": "sura-user_search-24",
+    "name": "user_search",
+    "size": 24,
+    "path": "icons/user_search/user_search-24.svg",
+    "sha256": "9c29920a605863053a26d89fa62462c117902d073b7ef3e64d2e06d5c3a62c13"
+  },
+  {
+    "id": "sura-user_search-32",
+    "name": "user_search",
+    "size": 32,
+    "path": "icons/user_search/user_search-32.svg",
+    "sha256": "917bf43d031884ec71a0c6a7fdd16a263c5844f0e99620c06ebd88494f2bd96e"
+  },
+  {
+    "id": "sura-user_question-12",
+    "name": "user_question",
+    "size": 12,
+    "path": "icons/user_question/user_question-12.svg",
+    "sha256": "60a07d9eeb00ad59cf09c2cee9f82333c3128e4e98317b5fd28ad0df5ee62333"
+  },
+  {
+    "id": "sura-user_question-16",
+    "name": "user_question",
+    "size": 16,
+    "path": "icons/user_question/user_question-16.svg",
+    "sha256": "24a17d3f6c153afa0b8a176ea470d491fa2ef6b7a5ef5580b3c7a772ad9abc4b"
+  },
+  {
+    "id": "sura-user_question-24",
+    "name": "user_question",
+    "size": 24,
+    "path": "icons/user_question/user_question-24.svg",
+    "sha256": "c621d57649263eb7458f00db103f36b940540fa67f20cd7a65330f8fa4f38e23"
+  },
+  {
+    "id": "sura-user_question-32",
+    "name": "user_question",
+    "size": 32,
+    "path": "icons/user_question/user_question-32.svg",
+    "sha256": "7be63057f1def85a39df0d2d1a7762b9b91e203c66487a58775281ee36576e4f"
+  },
+  {
+    "id": "sura-user_shield-12",
+    "name": "user_shield",
+    "size": 12,
+    "path": "icons/user_shield/user_shield-12.svg",
+    "sha256": "05175f6e760b9f054eec3a95c6f6f4a74acf601cca224ed7dcb75a3f5c59dce1"
+  },
+  {
+    "id": "sura-user_shield-16",
+    "name": "user_shield",
+    "size": 16,
+    "path": "icons/user_shield/user_shield-16.svg",
+    "sha256": "bc77fa34ee2138695d4b5f3b86b54f35b824c59a1f52301369b356d748e02891"
+  },
+  {
+    "id": "sura-user_shield-24",
+    "name": "user_shield",
+    "size": 24,
+    "path": "icons/user_shield/user_shield-24.svg",
+    "sha256": "23d702f6ed29a4413ed4c751b65d71347e30ec33ad87f3903ce3c4b629708389"
+  },
+  {
+    "id": "sura-user_shield-32",
+    "name": "user_shield",
+    "size": 32,
+    "path": "icons/user_shield/user_shield-32.svg",
+    "sha256": "5d67d08e4a60b63d47c9660a62e40312682a02f91793bc382d7b82926a4c8dd8"
+  },
+  {
+    "id": "sura-user_lock-12",
+    "name": "user_lock",
+    "size": 12,
+    "path": "icons/user_lock/user_lock-12.svg",
+    "sha256": "c1bf14df2cc7a64af4d6ad0ea7915d048a50986e535366a701487d70ea1fcb38"
+  },
+  {
+    "id": "sura-user_lock-16",
+    "name": "user_lock",
+    "size": 16,
+    "path": "icons/user_lock/user_lock-16.svg",
+    "sha256": "ba8b60e665ca448da1430786daca9a703a6ff27daab533adbbc9c55f5712997a"
+  },
+  {
+    "id": "sura-user_lock-24",
+    "name": "user_lock",
+    "size": 24,
+    "path": "icons/user_lock/user_lock-24.svg",
+    "sha256": "3786332ae1c682c6a2a8c90fb862aa31abd73b87cfb28c3fabc4daf25315802f"
+  },
+  {
+    "id": "sura-user_lock-32",
+    "name": "user_lock",
+    "size": 32,
+    "path": "icons/user_lock/user_lock-32.svg",
+    "sha256": "be61eabf0927e7550a85ec3391fba3c9c4992667b0986bd8de6dfcbcb2e33afe"
+  },
+  {
+    "id": "sura-settings-12",
+    "name": "settings",
+    "size": 12,
+    "path": "icons/settings/settings-12.svg",
+    "sha256": "63f8004444be1ad17c37017cf6e02515bdbcc742c0c8c9b6bc30129c1ce2d44c"
+  },
+  {
+    "id": "sura-settings-16",
+    "name": "settings",
+    "size": 16,
+    "path": "icons/settings/settings-16.svg",
+    "sha256": "9011b0cec7319b97f1f3ab4c40b97f30be1fd10245211b0cb8cff1e59ae26e25"
+  },
+  {
+    "id": "sura-settings-24",
+    "name": "settings",
+    "size": 24,
+    "path": "icons/settings/settings-24.svg",
+    "sha256": "bfd3935d6a9988c17d3647cd12913bd71791ce588249895d48d720db04ff990e"
+  },
+  {
+    "id": "sura-settings-32",
+    "name": "settings",
+    "size": 32,
+    "path": "icons/settings/settings-32.svg",
+    "sha256": "2fb83f2137a13c56db1b10f4fb469b047a8c9b6778c8212a4bf381f3de780450"
+  },
+  {
+    "id": "sura-arrow_back-12",
+    "name": "arrow_back",
+    "size": 12,
+    "path": "icons/arrow_back/arrow_back-12.svg",
+    "sha256": "69ed87fee35379981968464cf32d74125c73364ca5dc713cbb5802eb0b23857f"
+  },
+  {
+    "id": "sura-arrow_back-16",
+    "name": "arrow_back",
+    "size": 16,
+    "path": "icons/arrow_back/arrow_back-16.svg",
+    "sha256": "dad208f55437915d79867f8562249c1ba56dc9f369935a6477d303ca4fcd0d2a"
+  },
+  {
+    "id": "sura-arrow_back-24",
+    "name": "arrow_back",
+    "size": 24,
+    "path": "icons/arrow_back/arrow_back-24.svg",
+    "sha256": "78ea81562f5093f25c53ce27721f86d5e8341342c0d0c305f6247d3d86d889e8"
+  },
+  {
+    "id": "sura-arrow_back-32",
+    "name": "arrow_back",
+    "size": 32,
+    "path": "icons/arrow_back/arrow_back-32.svg",
+    "sha256": "f018d041b7f67b1e5dd2c904b3fdad6cfbc76aa7e500f244b11df2ee644d4b83"
+  },
+  {
+    "id": "sura-arrow_forward-12",
+    "name": "arrow_forward",
+    "size": 12,
+    "path": "icons/arrow_forward/arrow_forward-12.svg",
+    "sha256": "0f299e0b02bc52d6f7fee6c6a6ca80014801807694d0cbf306d033e122cf1c08"
+  },
+  {
+    "id": "sura-arrow_forward-16",
+    "name": "arrow_forward",
+    "size": 16,
+    "path": "icons/arrow_forward/arrow_forward-16.svg",
+    "sha256": "11eb4f79bf71867bf0628094a60bbd77c6afc217d203f87e78c0da1dd6923d45"
+  },
+  {
+    "id": "sura-arrow_forward-24",
+    "name": "arrow_forward",
+    "size": 24,
+    "path": "icons/arrow_forward/arrow_forward-24.svg",
+    "sha256": "3763f4148cf4d0de499ac7b10869d265bbcb13f6a3aff21de404e11b19095b82"
+  },
+  {
+    "id": "sura-arrow_forward-32",
+    "name": "arrow_forward",
+    "size": 32,
+    "path": "icons/arrow_forward/arrow_forward-32.svg",
+    "sha256": "226d3e225f45a23cf9abbbdc7edd1b02547283e655521b4673d4be98812d9c4d"
+  },
+  {
+    "id": "sura-all-12",
+    "name": "all",
+    "size": 12,
+    "path": "icons/all/all-12.svg",
+    "sha256": "b15cf8cc6a0442f7ea5437cb8d55afbec5af9523cf2d070bf825f2ef46eddc0d"
+  },
+  {
+    "id": "sura-all-16",
+    "name": "all",
+    "size": 16,
+    "path": "icons/all/all-16.svg",
+    "sha256": "73f3828f06a82b115f1ac154363ecb65a854cd6218ff6aa56a52118f75669b0f"
+  },
+  {
+    "id": "sura-all-24",
+    "name": "all",
+    "size": 24,
+    "path": "icons/all/all-24.svg",
+    "sha256": "21caee79131a29531361b751fa8211006820500ee8b2bbc5cdcd9f1b96986489"
+  },
+  {
+    "id": "sura-all-32",
+    "name": "all",
+    "size": 32,
+    "path": "icons/all/all-32.svg",
+    "sha256": "4f99ebdfabcf24eeeb1e1c740d95a6de2a0e035e85563b912627cea2b62558ea"
+  },
+  {
+    "id": "sura-search-12",
+    "name": "search",
+    "size": 12,
+    "path": "icons/search/search-12.svg",
+    "sha256": "3ad7c145aff7a49bf3ff25ac456c73236376e9697fc963abeba03399c995316c"
+  },
+  {
+    "id": "sura-search-16",
+    "name": "search",
+    "size": 16,
+    "path": "icons/search/search-16.svg",
+    "sha256": "0d64c4b48b78335de5ef1ed7d7ed4f24ffbc6bdca7849f146949634596abf473"
+  },
+  {
+    "id": "sura-search-24",
+    "name": "search",
+    "size": 24,
+    "path": "icons/search/search-24.svg",
+    "sha256": "91a82641d23c222954facb34a69135424a93a36c620b6b66bf5d482446b117e6"
+  },
+  {
+    "id": "sura-search-32",
+    "name": "search",
+    "size": 32,
+    "path": "icons/search/search-32.svg",
+    "sha256": "b9b0c3912bf51a25ea50d8dc92ca3ef6a7b902b8ee196a2866737125682a67e8"
+  },
+  {
+    "id": "sura-dot-12",
+    "name": "dot",
+    "size": 12,
+    "path": "icons/dot/dot-12.svg",
+    "sha256": "b1491620858499f480229397900e66b2712096c7069d28c060184658e8cdab83"
+  },
+  {
+    "id": "sura-dot-16",
+    "name": "dot",
+    "size": 16,
+    "path": "icons/dot/dot-16.svg",
+    "sha256": "77d874631eef9c71e816667b37b800eb11a143f59aaa1f97ebd8c1b3b55cf020"
+  },
+  {
+    "id": "sura-dot-24",
+    "name": "dot",
+    "size": 24,
+    "path": "icons/dot/dot-24.svg",
+    "sha256": "e7f2ae774e240ecf2cd5ea8a3161d2099cebe0faeab8891205f195a64f4953a4"
+  },
+  {
+    "id": "sura-dot-32",
+    "name": "dot",
+    "size": 32,
+    "path": "icons/dot/dot-32.svg",
+    "sha256": "58ddcff27341be912f4fd65de6270120aa10cd87a5c0f10ab8ebcdd485acaa8c"
+  },
+  {
+    "id": "sura-no_calendar-12",
+    "name": "no_calendar",
+    "size": 12,
+    "path": "icons/no_calendar/no_calendar-12.svg",
+    "sha256": "3622b222a8ce2f6ca3fa0a30b2c187f43451e1bd8657dc3e8163310c7f5b0b21"
+  },
+  {
+    "id": "sura-no_calendar-16",
+    "name": "no_calendar",
+    "size": 16,
+    "path": "icons/no_calendar/no_calendar-16.svg",
+    "sha256": "4b59ae0c112e6c10dddbb9e1791844c0af54bb5d51d3817c8ef3217b00323cd3"
+  },
+  {
+    "id": "sura-no_calendar-24",
+    "name": "no_calendar",
+    "size": 24,
+    "path": "icons/no_calendar/no_calendar-24.svg",
+    "sha256": "febfae7fe2764999e09d6802e41c69df48008f114d7ce59f474057bd018352d1"
+  },
+  {
+    "id": "sura-no_calendar-32",
+    "name": "no_calendar",
+    "size": 32,
+    "path": "icons/no_calendar/no_calendar-32.svg",
+    "sha256": "106fcc917ce66684d09c9dfe102a3f917a0cd9a2d632e8a64294444bfa91a33d"
+  },
+  {
+    "id": "sura-calculator-12",
+    "name": "calculator",
+    "size": 12,
+    "path": "icons/calculator/calculator-12.svg",
+    "sha256": "e59f9cec34ccdbe1f33fb218f22647238a25e0c9c7499d7ab4b82dd69a02a236"
+  },
+  {
+    "id": "sura-calculator-16",
+    "name": "calculator",
+    "size": 16,
+    "path": "icons/calculator/calculator-16.svg",
+    "sha256": "0b9e112a46e41a7272857dba119873c43bf9495e4b419b0a50ba273b9a19f6f6"
+  },
+  {
+    "id": "sura-calculator-24",
+    "name": "calculator",
+    "size": 24,
+    "path": "icons/calculator/calculator-24.svg",
+    "sha256": "324252924a468a4bb9e8775007b5d47e67aab2e06d2ef5bc663421890966273a"
+  },
+  {
+    "id": "sura-calculator-32",
+    "name": "calculator",
+    "size": 32,
+    "path": "icons/calculator/calculator-32.svg",
+    "sha256": "297464e14560afaa0904bdcc0951f71cd6a26c65dd3352d10b777e03fe93d832"
+  },
+  {
+    "id": "sura-briefcase-12",
+    "name": "briefcase",
+    "size": 12,
+    "path": "icons/briefcase/briefcase-12.svg",
+    "sha256": "3e57581d4704c48796ae61473b35b05089cb7b3cde06bfbd8ddd75b5094f16dc"
+  },
+  {
+    "id": "sura-briefcase-16",
+    "name": "briefcase",
+    "size": 16,
+    "path": "icons/briefcase/briefcase-16.svg",
+    "sha256": "228407cdfd147e6b32d98479cc76b895aaeceffa5cba8b04074c1f90841de664"
+  },
+  {
+    "id": "sura-briefcase-24",
+    "name": "briefcase",
+    "size": 24,
+    "path": "icons/briefcase/briefcase-24.svg",
+    "sha256": "f42ad52662a90ac96579183d76c329e7a162556a156eae8027a2eea5eb022be1"
+  },
+  {
+    "id": "sura-briefcase-32",
+    "name": "briefcase",
+    "size": 32,
+    "path": "icons/briefcase/briefcase-32.svg",
+    "sha256": "b8e6a1d1125bf9518cba78bdd42d4c169c79bc4568b3f89ec331c9bd9d6774df"
+  },
+  {
+    "id": "sura-energy_battery-12",
+    "name": "energy_battery",
+    "size": 12,
+    "path": "icons/energy_battery/energy_battery-12.svg",
+    "sha256": "2f70be9a41a7a1469621c0554b59b4120b285734c48805ebc2eff9c9d158a725"
+  },
+  {
+    "id": "sura-energy_battery-16",
+    "name": "energy_battery",
+    "size": 16,
+    "path": "icons/energy_battery/energy_battery-16.svg",
+    "sha256": "e63b9630ff4409bca4a769dee6d732a18854252b7e042693a9a60a85133ec3ec"
+  },
+  {
+    "id": "sura-energy_battery-24",
+    "name": "energy_battery",
+    "size": 24,
+    "path": "icons/energy_battery/energy_battery-24.svg",
+    "sha256": "3faa39cfb878a643700136ebe94d4e418673f7e7267538585a38bed266494152"
+  },
+  {
+    "id": "sura-energy_battery-32",
+    "name": "energy_battery",
+    "size": 32,
+    "path": "icons/energy_battery/energy_battery-32.svg",
+    "sha256": "e2f641af790ad2a086139e3c041020fc2424d35e94a211e9633bc20c97a41d44"
+  },
+  {
+    "id": "sura-empty_battery-12",
+    "name": "empty_battery",
+    "size": 12,
+    "path": "icons/empty_battery/empty_battery-12.svg",
+    "sha256": "0a4f6cd12f6c1e537714226684d17330983200fc4ee41feca64ff30b970d0616"
+  },
+  {
+    "id": "sura-empty_battery-16",
+    "name": "empty_battery",
+    "size": 16,
+    "path": "icons/empty_battery/empty_battery-16.svg",
+    "sha256": "9183068d254151c979af26a14f2a86238423781608b39effe5f7bc020dd10d94"
+  },
+  {
+    "id": "sura-empty_battery-24",
+    "name": "empty_battery",
+    "size": 24,
+    "path": "icons/empty_battery/empty_battery-24.svg",
+    "sha256": "f4b6ddc85cee93bf4b0537065e937b6113a78124c00751d95f5d8e9a8be9806d"
+  },
+  {
+    "id": "sura-empty_battery-32",
+    "name": "empty_battery",
+    "size": 32,
+    "path": "icons/empty_battery/empty_battery-32.svg",
+    "sha256": "56202703b180ab814454d21559a1482133989f843076b5da112309bf4f2b22a4"
+  },
+  {
+    "id": "sura-in_archive-12",
+    "name": "in_archive",
+    "size": 12,
+    "path": "icons/in_archive/in_archive-12.svg",
+    "sha256": "5099696367c6c6e0f68026780ba2c2dfb51a0baa3d6c987443e463c9caa02ec2"
+  },
+  {
+    "id": "sura-in_archive-16",
+    "name": "in_archive",
+    "size": 16,
+    "path": "icons/in_archive/in_archive-16.svg",
+    "sha256": "ba017e100ddddcaf2477e521b59eece2cd996ad6ca869df9d0395d1251dab5df"
+  },
+  {
+    "id": "sura-in_archive-24",
+    "name": "in_archive",
+    "size": 24,
+    "path": "icons/in_archive/in_archive-24.svg",
+    "sha256": "a65631e1c69d55f979c5c767850ab9e3a9da79a64d594f3f044663e3f5c87676"
+  },
+  {
+    "id": "sura-in_archive-32",
+    "name": "in_archive",
+    "size": 32,
+    "path": "icons/in_archive/in_archive-32.svg",
+    "sha256": "364cb8534005f147d03cd6ecea826c005005a57b51cea252a2230b1992e5c1ed"
+  },
+  {
+    "id": "sura-archive-12",
+    "name": "archive",
+    "size": 12,
+    "path": "icons/archive/archive-12.svg",
+    "sha256": "3498eea602371f034b18d9748bf2589bc9c3835b4dc66c37bca1f2a4d45d9872"
+  },
+  {
+    "id": "sura-archive-16",
+    "name": "archive",
+    "size": 16,
+    "path": "icons/archive/archive-16.svg",
+    "sha256": "80e520a99f822d84fd3977b986dd811efbe56417304c2608a084da328866e69e"
+  },
+  {
+    "id": "sura-archive-24",
+    "name": "archive",
+    "size": 24,
+    "path": "icons/archive/archive-24.svg",
+    "sha256": "2cf326adc00553d1e0eb106af6fe3bcb7c7b4f4a9cf3415a0c27d48c9661377f"
+  },
+  {
+    "id": "sura-archive-32",
+    "name": "archive",
+    "size": 32,
+    "path": "icons/archive/archive-32.svg",
+    "sha256": "b848c5310d532fd36d1efe94594ca8a50ec0097b1e508e3246284ad377992bc5"
+  },
+  {
+    "id": "sura-chat-12",
+    "name": "chat",
+    "size": 12,
+    "path": "icons/chat/chat-12.svg",
+    "sha256": "2f96130547933e8ceab123b43591e60e5667183f0b5f3f0f273c29cb1f4b10f8"
+  },
+  {
+    "id": "sura-chat-16",
+    "name": "chat",
+    "size": 16,
+    "path": "icons/chat/chat-16.svg",
+    "sha256": "5e20fef711c8ccb2671c920b57771a19c8fea8c8f234692ef58dd56d57e085ab"
+  },
+  {
+    "id": "sura-chat-24",
+    "name": "chat",
+    "size": 24,
+    "path": "icons/chat/chat-24.svg",
+    "sha256": "6cfa75c78ead17de8c2bc1940faaf4486e537b9fe5e809716fab17b19b7fb9d9"
+  },
+  {
+    "id": "sura-chat-32",
+    "name": "chat",
+    "size": 32,
+    "path": "icons/chat/chat-32.svg",
+    "sha256": "da366675e1fb5f117fa47dc35c80d5474a1cadd62e79f3d113276d81b143fcad"
+  },
+  {
+    "id": "sura-prioritet_low-12",
+    "name": "prioritet_low",
+    "size": 12,
+    "path": "icons/prioritet_low/prioritet_low-12.svg",
+    "sha256": "745d2aea790c56ccdadfbc784a93caf4e52539dbb173bda04ed9b12d7483d77b"
+  },
+  {
+    "id": "sura-prioritet_low-16",
+    "name": "prioritet_low",
+    "size": 16,
+    "path": "icons/prioritet_low/prioritet_low-16.svg",
+    "sha256": "469db681d8132b52904a848341e4de5612615a5ba3d1d15540d57dc7fdcad96f"
+  },
+  {
+    "id": "sura-prioritet_low-24",
+    "name": "prioritet_low",
+    "size": 24,
+    "path": "icons/prioritet_low/prioritet_low-24.svg",
+    "sha256": "e8cd9fa42e1807b3b0fd4aa9b4a9abe2d086906ad5322bfa35c76538cc764847"
+  },
+  {
+    "id": "sura-prioritet_low-32",
+    "name": "prioritet_low",
+    "size": 32,
+    "path": "icons/prioritet_low/prioritet_low-32.svg",
+    "sha256": "e763de3941853433ef33de50dcae70bd7ee09d9d12237fdff517786b343d2e91"
+  },
+  {
+    "id": "sura-prioritet_average-12",
+    "name": "prioritet_average",
+    "size": 12,
+    "path": "icons/prioritet_average/prioritet_average-12.svg",
+    "sha256": "0a0652ae5cf9900b307f35aed09f62ef863a79029b3214ef8caf385be9805c8e"
+  },
+  {
+    "id": "sura-prioritet_average-16",
+    "name": "prioritet_average",
+    "size": 16,
+    "path": "icons/prioritet_average/prioritet_average-16.svg",
+    "sha256": "d0404400f9970cc3be560a1e72a34ec286cc515ae329dfe4162a1a0994428d02"
+  },
+  {
+    "id": "sura-prioritet_average-24",
+    "name": "prioritet_average",
+    "size": 24,
+    "path": "icons/prioritet_average/prioritet_average-24.svg",
+    "sha256": "eb75cd8d8accbaca97772eda28c993d20952f09bad1221533ffb0305bb9913f5"
+  },
+  {
+    "id": "sura-prioritet_average-32",
+    "name": "prioritet_average",
+    "size": 32,
+    "path": "icons/prioritet_average/prioritet_average-32.svg",
+    "sha256": "adadee57f60b4b9be5a0daa54d33f8547d79f064eefa5201a59db2f93ae6fe1e"
+  },
+  {
+    "id": "sura-prioritet_hight-12",
+    "name": "prioritet_hight",
+    "size": 12,
+    "path": "icons/prioritet_hight/prioritet_hight-12.svg",
+    "sha256": "96ebec17e086b8b94937d10fea0df456cd7aab78a84fd4994ba621592085c6cd"
+  },
+  {
+    "id": "sura-prioritet_hight-16",
+    "name": "prioritet_hight",
+    "size": 16,
+    "path": "icons/prioritet_hight/prioritet_hight-16.svg",
+    "sha256": "5f6aa547e510ecb02ca6ffb4da7851c288838e05ab615897434403798a4912b8"
+  },
+  {
+    "id": "sura-prioritet_hight-24",
+    "name": "prioritet_hight",
+    "size": 24,
+    "path": "icons/prioritet_hight/prioritet_hight-24.svg",
+    "sha256": "8e0ac1d1f6723de85e3b681cef5d2b7c270a6985c90e1b6c58469e27be0812a3"
+  },
+  {
+    "id": "sura-prioritet_hight-32",
+    "name": "prioritet_hight",
+    "size": 32,
+    "path": "icons/prioritet_hight/prioritet_hight-32.svg",
+    "sha256": "560dde50b42b22cbb960bbd549d875011bc6b7aa1bbe719433f2ce820f97561a"
+  },
+  {
+    "id": "sura-pin-12",
+    "name": "pin",
+    "size": 12,
+    "path": "icons/pin/pin-12.svg",
+    "sha256": "5d7b3d1efc067a0c19bc9c11ab28962f92991224143179b6bc56e338bc2502e1"
+  },
+  {
+    "id": "sura-pin-16",
+    "name": "pin",
+    "size": 16,
+    "path": "icons/pin/pin-16.svg",
+    "sha256": "dba5c9966fc92b31b7ebaea6dcfda07f1da7699876f2bc249ad11e950c15f051"
+  },
+  {
+    "id": "sura-pin-24",
+    "name": "pin",
+    "size": 24,
+    "path": "icons/pin/pin-24.svg",
+    "sha256": "7015453aa3270b8c32e99904b131b3b3f19596c3d64c80bd017418b87a5a79eb"
+  },
+  {
+    "id": "sura-pin-32",
+    "name": "pin",
+    "size": 32,
+    "path": "icons/pin/pin-32.svg",
+    "sha256": "a5689e2e29a183437ad3e5e2f853b5100ff00ec6317124b5abd8fe21f329e17b"
+  },
+  {
+    "id": "sura-color-12",
+    "name": "color",
+    "size": 12,
+    "path": "icons/color/color-12.svg",
+    "sha256": "84970ff192f6fb8353dfab707510094dca9ecf28f4f695b6ab9144f4404e6989"
+  },
+  {
+    "id": "sura-color-16",
+    "name": "color",
+    "size": 16,
+    "path": "icons/color/color-16.svg",
+    "sha256": "9d7e23e94da97f2bdfce80ff4a63a1c60299816de5e2856a4247dbb3dbbbde7a"
+  },
+  {
+    "id": "sura-color-24",
+    "name": "color",
+    "size": 24,
+    "path": "icons/color/color-24.svg",
+    "sha256": "6149f109f320225498f5d5a4a8262f95adbc8cb73fe96d137027a36dcc4de9b3"
+  },
+  {
+    "id": "sura-color-32",
+    "name": "color",
+    "size": 32,
+    "path": "icons/color/color-32.svg",
+    "sha256": "2efef4118d002db4aa2d3f42f3c5bc8a4dc52e659e555bb97306667f94261d8c"
+  },
+  {
+    "id": "sura-flag-12",
+    "name": "flag",
+    "size": 12,
+    "path": "icons/flag/flag-12.svg",
+    "sha256": "f45e254225185b064b90af68a077f10dc70082a53844b29a4e00c9a70581c015"
+  },
+  {
+    "id": "sura-flag-16",
+    "name": "flag",
+    "size": 16,
+    "path": "icons/flag/flag-16.svg",
+    "sha256": "23cbb00f26f7e310f415a0f0d7115a7982ed9f76b54c26a7f962cfac127d68d2"
+  },
+  {
+    "id": "sura-flag-24",
+    "name": "flag",
+    "size": 24,
+    "path": "icons/flag/flag-24.svg",
+    "sha256": "e4508a91e9de5eb578e5d4c6445549840e2f608567b909fc98168018b369d828"
+  },
+  {
+    "id": "sura-flag-32",
+    "name": "flag",
+    "size": 32,
+    "path": "icons/flag/flag-32.svg",
+    "sha256": "dc70c3829b692f19bc1bb53aa1a56aee5b2576a29dbeaf9ad6693b61e8f26128"
+  }
+]
