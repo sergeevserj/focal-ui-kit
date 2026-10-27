@@ -1,8 +1,8 @@
 # Focal / Sura UI Kit
 
-Дизайн-система Sura и интерактивная документация Focal UI Kit. Актуальный экспорт: 22 октября 2026 года.
+Дизайн-система Sura и интерактивная документация Focal UI Kit. Актуальный экспорт: 27 октября 2026 года.
 
-**[Открыть UI Kit](https://sergeevserj.github.io/focal-ui-kit/)** · **[Скачать HTML](FoCal_UI_Kit.html)** · **[Скачать 392 SVG](downloads/Sura_Icons_392_SVG.zip)**
+**[Открыть UI Kit](https://sergeevserj.github.io/focal-ui-kit/)** · **[Скачать HTML](FoCal_UI_Kit.html)** · **[Скачать 416 SVG](downloads/Sura_Icons_416_SVG.zip)**
 
 ## Просмотр и скачивание
 
@@ -15,7 +15,7 @@
 03. Типографика
 04. Кнопки
 05. Теги
-06. Иконки — 98 компонентов, 392 самостоятельных SVG
+06. Иконки — 104 компонента, 416 самостоятельных SVG
 07. Checkbox
 08. Radiobutton
 09. Toggle

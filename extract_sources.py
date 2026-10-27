@@ -26,12 +26,12 @@ icons,end=json.JSONDecoder().raw_decode(icon_script.split('const icons=',1)[1])
 zip64=re.search(r",zip='([^']+)'",icon_script).group(1)
 archive=base64.b64decode(zip64)
 with zipfile.ZipFile(io.BytesIO(archive)) as z:
- assert len(z.namelist())==392
+ assert len(z.namelist())==len(icons)
  assert z.testzip() is None
  for name in z.namelist():
   assert name.startswith('Sura_Icons/') and '..' not in Path(name).parts
   write('icons/'+name.removeprefix('Sura_Icons/'),z.read(name))
-write('downloads/Sura_Icons_392_SVG.zip',archive)
+write('downloads/Sura_Icons_416_SVG.zip',archive)
 # SVG sprite used by the HTML, with all independent size geometries intact.
 start=s.index('<symbol');end=s.index('</defs></svg><main>',start)
 write('icons/sprite.svg','<svg xmlns="http://www.w3.org/2000/svg"><defs>'+s[start:end]+'</defs></svg>\n')

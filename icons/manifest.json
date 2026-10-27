@@ -2742,5 +2742,173 @@
     "size": 32,
     "path": "icons/flag/flag-32.svg",
     "sha256": "dc70c3829b692f19bc1bb53aa1a56aee5b2576a29dbeaf9ad6693b61e8f26128"
+  },
+  {
+    "id": "sura-shield_check-12",
+    "name": "shield_check",
+    "size": 12,
+    "path": "icons/shield_check/shield_check-12.svg",
+    "sha256": "e1b1dcd34b0d99e82a131c3feffecb3c85e9ee7a6cdf22675e483f3daa70e733"
+  },
+  {
+    "id": "sura-shield_check-16",
+    "name": "shield_check",
+    "size": 16,
+    "path": "icons/shield_check/shield_check-16.svg",
+    "sha256": "5151a155216d86acd515893f29f48f67155389b96f7d3e3a0465d01d157208ac"
+  },
+  {
+    "id": "sura-shield_check-24",
+    "name": "shield_check",
+    "size": 24,
+    "path": "icons/shield_check/shield_check-24.svg",
+    "sha256": "a94882f1a071d953ec902b79dfff069f8c9bb61678a89a3c95843872e24e3d91"
+  },
+  {
+    "id": "sura-shield_check-32",
+    "name": "shield_check",
+    "size": 32,
+    "path": "icons/shield_check/shield_check-32.svg",
+    "sha256": "49da4d50b2403bbc5d8d2e30fbc798099b34d0fdfc5dbb157f5307bd13afedef"
+  },
+  {
+    "id": "sura-rocket-12",
+    "name": "rocket",
+    "size": 12,
+    "path": "icons/rocket/rocket-12.svg",
+    "sha256": "4cc48832e803bd8f0e09804aeb0ad10a7341a436f59c962a88b5f14f77c8384a"
+  },
+  {
+    "id": "sura-rocket-16",
+    "name": "rocket",
+    "size": 16,
+    "path": "icons/rocket/rocket-16.svg",
+    "sha256": "b20aaa27a6aaddb7b078e6a47ead058e3ffab95f198be7d0ebcca635d79deae6"
+  },
+  {
+    "id": "sura-rocket-24",
+    "name": "rocket",
+    "size": 24,
+    "path": "icons/rocket/rocket-24.svg",
+    "sha256": "0f31d0644408f73156113d7815e265facf6f0db7dce2fdd50a0b256d79e6fbc3"
+  },
+  {
+    "id": "sura-rocket-32",
+    "name": "rocket",
+    "size": 32,
+    "path": "icons/rocket/rocket-32.svg",
+    "sha256": "ec0a220e18f702b768d38e4b36d1a34608c2aab6f9685aba7739875108f0fde8"
+  },
+  {
+    "id": "sura-scales-12",
+    "name": "scales",
+    "size": 12,
+    "path": "icons/scales/scales-12.svg",
+    "sha256": "12fde5b4dbe83e5bfc6e5017b206fade6299fca98daee280fbdd9b2b190c1146"
+  },
+  {
+    "id": "sura-scales-16",
+    "name": "scales",
+    "size": 16,
+    "path": "icons/scales/scales-16.svg",
+    "sha256": "7472d1d3642998132966c27167e7e63089f029e36d6605f927acf2eb591678e9"
+  },
+  {
+    "id": "sura-scales-24",
+    "name": "scales",
+    "size": 24,
+    "path": "icons/scales/scales-24.svg",
+    "sha256": "b3d69911cdb01712f434a702c8d171e622a2abd529561ff6a587bb49f04f828a"
+  },
+  {
+    "id": "sura-scales-32",
+    "name": "scales",
+    "size": 32,
+    "path": "icons/scales/scales-32.svg",
+    "sha256": "c31587c6a67fd5f38b279fccf7306aac05b69d2e620b839b972b6b4933bbfe49"
+  },
+  {
+    "id": "sura-book-12",
+    "name": "book",
+    "size": 12,
+    "path": "icons/book/book-12.svg",
+    "sha256": "8a5e5c39ac872afe76418a19ac61746d8c629c55904ed6a909e21f25a5510c85"
+  },
+  {
+    "id": "sura-book-16",
+    "name": "book",
+    "size": 16,
+    "path": "icons/book/book-16.svg",
+    "sha256": "8f4b7c262f2ea568be25a9109a20fa2cdd2e56974a02579a88be6455482c1041"
+  },
+  {
+    "id": "sura-book-24",
+    "name": "book",
+    "size": 24,
+    "path": "icons/book/book-24.svg",
+    "sha256": "2d4584302d9aadda2cdea3c453b70511cb07561570e91c8e0aa45383883de5e4"
+  },
+  {
+    "id": "sura-book-32",
+    "name": "book",
+    "size": 32,
+    "path": "icons/book/book-32.svg",
+    "sha256": "0dfd8a7de59001ae9bd5ac1c19c68e4fd2ad849e6292695ba6462cde277239c6"
+  },
+  {
+    "id": "sura-diamond-12",
+    "name": "diamond",
+    "size": 12,
+    "path": "icons/diamond/diamond-12.svg",
+    "sha256": "8a0bd2308f3c540cef951b2ecf560855bb9fdcf61b16ce9e4f1dc410cbeb50c7"
+  },
+  {
+    "id": "sura-diamond-16",
+    "name": "diamond",
+    "size": 16,
+    "path": "icons/diamond/diamond-16.svg",
+    "sha256": "5657c0e322894938a816eca967745ac43ddf355abccdc59980019d7791b0f22e"
+  },
+  {
+    "id": "sura-diamond-24",
+    "name": "diamond",
+    "size": 24,
+    "path": "icons/diamond/diamond-24.svg",
+    "sha256": "51706647b8a49a343762d27aa0408f13d51d50b2ec0d02547fb9deafc4723635"
+  },
+  {
+    "id": "sura-diamond-32",
+    "name": "diamond",
+    "size": 32,
+    "path": "icons/diamond/diamond-32.svg",
+    "sha256": "7c06bcb0f6d61a5e37001827f004072fd77a1961100df996be2049c928d05866"
+  },
+  {
+    "id": "sura-feather-12",
+    "name": "feather",
+    "size": 12,
+    "path": "icons/feather/feather-12.svg",
+    "sha256": "d40f8a00c9a60561ef9f5ff95b4864fdcc3542374593f23a810192a2bc7e2d49"
+  },
+  {
+    "id": "sura-feather-16",
+    "name": "feather",
+    "size": 16,
+    "path": "icons/feather/feather-16.svg",
+    "sha256": "e44393038e172094c1a9ed34f6831e11e103e8e07c17b766be67c5611a39370d"
+  },
+  {
+    "id": "sura-feather-24",
+    "name": "feather",
+    "size": 24,
+    "path": "icons/feather/feather-24.svg",
+    "sha256": "8d2f6a21eb094a9935c655ad5ebe0f89e1b2dab65d10efd97a1f11df9e351d88"
+  },
+  {
+    "id": "sura-feather-32",
+    "name": "feather",
+    "size": 32,
+    "path": "icons/feather/feather-32.svg",
+    "sha256": "ea8ce83dea93dc1b28b27f9c5c4e042e2bcd599fdea48d55a5c60727ffc4b0d1"
   }
 ]
