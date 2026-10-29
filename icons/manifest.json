@@ -2910,5 +2910,229 @@
     "size": 32,
     "path": "icons/feather/feather-32.svg",
     "sha256": "ea8ce83dea93dc1b28b27f9c5c4e042e2bcd599fdea48d55a5c60727ffc4b0d1"
+  },
+  {
+    "id": "sura-download-12",
+    "name": "download",
+    "size": 12,
+    "path": "icons/download/download-12.svg",
+    "sha256": "dab92fd422d7c47f34976eb408e05b3227d02835a0a32eb2c7ffe517609fc9cd"
+  },
+  {
+    "id": "sura-download-16",
+    "name": "download",
+    "size": 16,
+    "path": "icons/download/download-16.svg",
+    "sha256": "919ab39a573c0e6060058173c54a93a291f8da8daf9f58d95ce355f04acf5a9b"
+  },
+  {
+    "id": "sura-download-24",
+    "name": "download",
+    "size": 24,
+    "path": "icons/download/download-24.svg",
+    "sha256": "5840c5d588be080f2c372c9b8cdccf5bb6c27d866f8f9f4a307b4c9ab69de025"
+  },
+  {
+    "id": "sura-download-32",
+    "name": "download",
+    "size": 32,
+    "path": "icons/download/download-32.svg",
+    "sha256": "21d76c6b8c40f1e5268095db387e9df4673b0493ec4efdc73a11b1884a017c63"
+  },
+  {
+    "id": "sura-upload-12",
+    "name": "upload",
+    "size": 12,
+    "path": "icons/upload/upload-12.svg",
+    "sha256": "25323fc60c6da51e7a3d1e75c0692895f5f590b8329f52e739cc809b784bfed6"
+  },
+  {
+    "id": "sura-upload-16",
+    "name": "upload",
+    "size": 16,
+    "path": "icons/upload/upload-16.svg",
+    "sha256": "df9ae23f9c6646959565adc881658b5f903cf55b5e7baaa81ea6e09d3b80c8f9"
+  },
+  {
+    "id": "sura-upload-24",
+    "name": "upload",
+    "size": 24,
+    "path": "icons/upload/upload-24.svg",
+    "sha256": "69a4bf07b37d98b73a8418ca26498f80425971cb7a30af6c6885d4934ff5bf7a"
+  },
+  {
+    "id": "sura-upload-32",
+    "name": "upload",
+    "size": 32,
+    "path": "icons/upload/upload-32.svg",
+    "sha256": "38233ac1e27e93a44948ccf3e22f64f5e314e36f7a5b86cbbb7c5fa944ebc630"
+  },
+  {
+    "id": "sura-heart-12",
+    "name": "heart",
+    "size": 12,
+    "path": "icons/heart/heart-12.svg",
+    "sha256": "c6fa3cee5f1456b108807f4d131407e6d7bc5007f37ce44688f30be947bf51d8"
+  },
+  {
+    "id": "sura-heart-16",
+    "name": "heart",
+    "size": 16,
+    "path": "icons/heart/heart-16.svg",
+    "sha256": "0107169615973a8567b8e57015715c583e066d2902137960fe9e2fbf680e9d47"
+  },
+  {
+    "id": "sura-heart-24",
+    "name": "heart",
+    "size": 24,
+    "path": "icons/heart/heart-24.svg",
+    "sha256": "240a0c40f97d7a9a2116a2aa1d5ff95b7af154c8baa8f98afcb772c0784024da"
+  },
+  {
+    "id": "sura-heart-32",
+    "name": "heart",
+    "size": 32,
+    "path": "icons/heart/heart-32.svg",
+    "sha256": "90b2de5365870d2bf7ea6d687f91059498a3210e76da81dd93da9f8264bfc7c4"
+  },
+  {
+    "id": "sura-speed-12",
+    "name": "speed",
+    "size": 12,
+    "path": "icons/speed/speed-12.svg",
+    "sha256": "68f0b128c9b839d437cd9d7540902808247569e841e39ebaf86afeeb727e7eca"
+  },
+  {
+    "id": "sura-speed-16",
+    "name": "speed",
+    "size": 16,
+    "path": "icons/speed/speed-16.svg",
+    "sha256": "b6ca46d1a2835f9205a71a5161e82b7579ef316b41862a8d27f354105b3f3811"
+  },
+  {
+    "id": "sura-speed-24",
+    "name": "speed",
+    "size": 24,
+    "path": "icons/speed/speed-24.svg",
+    "sha256": "9361694ce31d58461dfaf0d0ba826ae0424525861a0f2f9ada376a68da292b18"
+  },
+  {
+    "id": "sura-speed-32",
+    "name": "speed",
+    "size": 32,
+    "path": "icons/speed/speed-32.svg",
+    "sha256": "50e8c69977b9071a21b7bff0a2fe83ba5b25d9a007ecea9617fb78717ef2ac90"
+  },
+  {
+    "id": "sura-round_cross-12",
+    "name": "round_cross",
+    "size": 12,
+    "path": "icons/round_cross/round_cross-12.svg",
+    "sha256": "12e634c4eff5eb69c4ddf89c4a9b2e94530fb4bb92b541e935027fadbd5b6b32"
+  },
+  {
+    "id": "sura-round_cross-16",
+    "name": "round_cross",
+    "size": 16,
+    "path": "icons/round_cross/round_cross-16.svg",
+    "sha256": "15063bd9d2eb7e948e4a17cfd0655605b9ad36385e08820603479695f6422e4f"
+  },
+  {
+    "id": "sura-round_cross-24",
+    "name": "round_cross",
+    "size": 24,
+    "path": "icons/round_cross/round_cross-24.svg",
+    "sha256": "038e615758e42ffdb799a8b6b8f0b5a9db2f3b29a1c91b47e225d419f5d8b7e9"
+  },
+  {
+    "id": "sura-round_cross-32",
+    "name": "round_cross",
+    "size": 32,
+    "path": "icons/round_cross/round_cross-32.svg",
+    "sha256": "8396360c95a2cd31f7e0c6d08b6d15bb380295a3d4ae1120818a6cbf773e2126"
+  },
+  {
+    "id": "sura-crown-12",
+    "name": "crown",
+    "size": 12,
+    "path": "icons/crown/crown-12.svg",
+    "sha256": "8d95716e239a44687fedeefb6679bdf8f3a4e963cd1de983a90e49f8de3ad306"
+  },
+  {
+    "id": "sura-crown-16",
+    "name": "crown",
+    "size": 16,
+    "path": "icons/crown/crown-16.svg",
+    "sha256": "7d33a0f6c1243cc33f35b2f542aee01970c8b3170194cb9b77b127fa651edf49"
+  },
+  {
+    "id": "sura-crown-24",
+    "name": "crown",
+    "size": 24,
+    "path": "icons/crown/crown-24.svg",
+    "sha256": "efee3811a4ca1c8b9aa9bfe9f44b77f8a07b60f9635c2585d329f0f366472296"
+  },
+  {
+    "id": "sura-crown-32",
+    "name": "crown",
+    "size": 32,
+    "path": "icons/crown/crown-32.svg",
+    "sha256": "e7fe39809f3942f31cbf12c57ca321b0fe9400106714e7a56ca2f628f978a214"
+  },
+  {
+    "id": "sura-cloud-12",
+    "name": "cloud",
+    "size": 12,
+    "path": "icons/cloud/cloud-12.svg",
+    "sha256": "1bbd0187b74b53baa5a8ad27e9a5ceb2284c8ddf8b31d36503087a65569ef481"
+  },
+  {
+    "id": "sura-cloud-16",
+    "name": "cloud",
+    "size": 16,
+    "path": "icons/cloud/cloud-16.svg",
+    "sha256": "ab1cb15a775325dcce95b51a22e69e2bf244cdf62902cbf30eb2dcce8b92c00a"
+  },
+  {
+    "id": "sura-cloud-24",
+    "name": "cloud",
+    "size": 24,
+    "path": "icons/cloud/cloud-24.svg",
+    "sha256": "bbed055c1b81afbe4e509d9390ca394c7e17f16a0b2095aa003f1d9dd311e4f4"
+  },
+  {
+    "id": "sura-cloud-32",
+    "name": "cloud",
+    "size": 32,
+    "path": "icons/cloud/cloud-32.svg",
+    "sha256": "caadf091e2c07172ff66d92dbc1e5c4dc6df8cdbe2e6ab6239174ea27e516088"
+  },
+  {
+    "id": "sura-mail-12",
+    "name": "mail",
+    "size": 12,
+    "path": "icons/mail/mail-12.svg",
+    "sha256": "5d0d72f597f4b63977122a736ad9383d8fdfad0ab80c61eb711c1d2264cf9a89"
+  },
+  {
+    "id": "sura-mail-16",
+    "name": "mail",
+    "size": 16,
+    "path": "icons/mail/mail-16.svg",
+    "sha256": "70f7c999e2dbf5293f8e7725d1dbb2a159d8636a45c34fdd2ad38f5b75ce9174"
+  },
+  {
+    "id": "sura-mail-24",
+    "name": "mail",
+    "size": 24,
+    "path": "icons/mail/mail-24.svg",
+    "sha256": "b7e598bf70d4acc869ba895f120a02349a0b47187382fad9c4b259e675c5f598"
+  },
+  {
+    "id": "sura-mail-32",
+    "name": "mail",
+    "size": 32,
+    "path": "icons/mail/mail-32.svg",
+    "sha256": "415237863c827524274924668264de3af17cbbd350a9bd99049b73a4598dad5a"
   }
 ]

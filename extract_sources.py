@@ -31,7 +31,7 @@ with zipfile.ZipFile(io.BytesIO(archive)) as z:
  for name in z.namelist():
   assert name.startswith('Sura_Icons/') and '..' not in Path(name).parts
   write('icons/'+name.removeprefix('Sura_Icons/'),z.read(name))
-write('downloads/Sura_Icons_416_SVG.zip',archive)
+write('downloads/Sura_Icons_448_SVG.zip',archive)
 # SVG sprite used by the HTML, with all independent size geometries intact.
 start=s.index('<symbol');end=s.index('</defs></svg><main>',start)
 write('icons/sprite.svg','<svg xmlns="http://www.w3.org/2000/svg"><defs>'+s[start:end]+'</defs></svg>\n')
